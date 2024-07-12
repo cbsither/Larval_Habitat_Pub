@@ -1,0 +1,1508 @@
+Backbone needs to add 3306 tips
+Computing root birth and death rates.
+MRCA: __TAXONOMIC_ROOT__ b=0.34, d=0.29, sf=0.07 (259/3563), ccp=0.99
+MRCA: Culicidae b=0.34, d=0.29, sf=0.07 (259/3563), ccp=0.99
+MRCA: Anophelinae b=0.30, d=0.28, sf=0.10 (51/489), ccp=0.97
+MRCA: None b=0.30, d=0.28, sf=0.10 (51/489), ccp=0.97
+MRCA: Anopheles b=0.18, d=0.14, sf=0.10 (49/476), ccp=0.96
+MRCA: AnophelesAnopheles not monophyletic in backbone (from Anopheles minimus, Anopheles culicifacies and 20 others)
+MRCA: AnophelesBaimaia not present in backbone
+MRCA: AnophelesCellia b=0.57, d=0.54, sf=0.10 (22/225), ccp=0.92
+MRCA: AnophelesChristya not present in backbone
+MRCA: AnophelesKerteszia has crown capture probability 0.00 < 0.80 (1/12 species)
+MRCA: AnophelesLophopodomyia has crown capture probability 0.00 < 0.80 (1/6 species)
+MRCA: AnophelesNyssorhynchus b=0.12, d=0.04, sf=0.20 (8/40), ccp=0.82
+MRCA: AnophelesStethomyia has crown capture probability 0.00 < 0.80 (1/5 species)
+MRCA: Bironella not present in backbone
+MRCA: BironellaBironella not present in backbone
+MRCA: BironellaBrugella not present in backbone
+MRCA: BironellaNeobironella not present in backbone
+MRCA: Chagasia has crown capture probability 0.50 < 0.80 (2/5 species)
+MRCA: ChagasiaChagasia has crown capture probability 0.50 < 0.80 (2/5 species)
+MRCA: Culicinae b=0.30, d=0.24, sf=0.07 (208/3074), ccp=0.99
+MRCA: Aedeomyiini has crown capture probability 0.44 < 0.80 (2/7 species)
+MRCA: Aedeomyia has crown capture probability 0.44 < 0.80 (2/7 species)
+MRCA: AedeomyiaAedeomyia has crown capture probability 0.47 < 0.80 (2/6 species)
+MRCA: AedeomyiaLepiothauma not present in backbone
+MRCA: Aedini b=0.15, d=0.06, sf=0.10 (122/1257), ccp=0.99
+MRCA: Aedes not monophyletic in backbone (from Eretmapodites intermedius, Verrallina carmenti and 7 others)
+MRCA: AedesAbraedes not present in backbone
+MRCA: AedesAcartomyia not present in backbone
+MRCA: AedesAedes has crown capture probability 0.00 < 0.80 (1/12 species)
+MRCA: AedesAedimorphus not monophyletic in backbone (from Aedes pembaensis, Aedes metallicus and 16 others)
+MRCA: AedesAlanstonea not present in backbone
+MRCA: AedesAlbuginosus not present in backbone
+MRCA: AedesAyurakitia not present in backbone
+MRCA: AedesAztecaedes not present in backbone
+MRCA: AedesBelkinius not present in backbone
+MRCA: AedesBifidistylus not present in backbone
+MRCA: AedesBorichinda not present in backbone
+MRCA: AedesBothaella not present in backbone
+MRCA: AedesBruceharrisonius not present in backbone
+MRCA: AedesCancraedes not present in backbone
+MRCA: AedesCatageiomyia has crown capture probability 0.00 < 0.80 (1/28 species)
+MRCA: AedesCatatassomyia not present in backbone
+MRCA: AedesChristophersiomyia not present in backbone
+MRCA: AedesCoetzeemyia not present in backbone
+MRCA: AedesCollessius not present in backbone
+MRCA: AedesCornetius is a singleton
+MRCA: AedesDahliana has crown capture probability 0.00 < 0.80 (1/3 species)
+MRCA: AedesDanielsia not present in backbone
+MRCA: AedesDendroskusea not present in backbone
+MRCA: AedesDiceromyia has crown capture probability 0.43 < 0.80 (2/8 species)
+MRCA: AedesDobrotworskyius b=0.08, d=0.00, sf=0.71 (5/7), ccp=0.89
+MRCA: AedesDownsiomyia not present in backbone
+MRCA: AedesEdwardsaedes not present in backbone
+MRCA: AedesElpeytonius not present in backbone
+MRCA: AedesFinlaya not monophyletic in backbone (from Aedes obturbator, Aedes rubrithorax and 62 others)
+MRCA: AedesFredwardsius is a singleton
+MRCA: AedesGeorgecraigius b=0.02, d=0.02, sf=1.00 (3/3), ccp=1.00
+MRCA: AedesGeoskusea not present in backbone
+MRCA: AedesGilesius not present in backbone
+MRCA: AedesGymnometopa is a singleton
+MRCA: AedesHalaedes has crown capture probability 0.67 < 0.80 (2/3 species)
+MRCA: AedesHimalaius not present in backbone
+MRCA: AedesHopkinsius not present in backbone
+MRCA: AedesHowardina not present in backbone
+MRCA: AedesHuaedes not present in backbone
+MRCA: AedesHulecoeteomyia has crown capture probability 0.00 < 0.80 (1/14 species)
+MRCA: AedesIndusius not present in backbone
+MRCA: AedesIsoaedes not present in backbone
+MRCA: AedesJarnellius has crown capture probability 0.75 < 0.80 (3/5 species)
+MRCA: AedesJihlienius not present in backbone
+MRCA: AedesKenknightia not present in backbone
+MRCA: AedesKompia is a singleton
+MRCA: AedesLeptosomatomyia not present in backbone
+MRCA: AedesLevua not present in backbone
+MRCA: AedesLewnielsenius is a singleton
+MRCA: AedesLorrainea not present in backbone
+MRCA: AedesLuius not present in backbone
+MRCA: AedesMacleaya has crown capture probability 0.40 < 0.80 (2/11 species)
+MRCA: AedesMolpemyia not present in backbone
+MRCA: AedesMucidus has crown capture probability 0.00 < 0.80 (1/14 species)
+MRCA: AedesNeomelaniconion not present in backbone
+MRCA: AedesNyctomyia not present in backbone
+MRCA: AedesOchlerotatus not monophyletic in backbone (from Aedes sierrensis, Aedes rubrithorax and 32 others)
+MRCA: AedesParaedes not present in backbone
+MRCA: AedesPatmarksia has crown capture probability 0.00 < 0.80 (1/13 species)
+MRCA: AedesPaulianius not present in backbone
+MRCA: AedesPetermattinglyius not present in backbone
+MRCA: AedesPhagomyia not present in backbone
+MRCA: AedesPolyleptiomyia not present in backbone
+MRCA: AedesProtomacleaya has crown capture probability 0.63 < 0.80 (4/39 species)
+MRCA: AedesPseudalbuginosus not present in backbone
+MRCA: AedesPseudarmigeres not present in backbone
+MRCA: AedesRampamyia has crown capture probability 0.67 < 0.80 (2/3 species)
+MRCA: AedesRhinoskusea not present in backbone
+MRCA: AedesSallumia not present in backbone
+MRCA: AedesScutomyia not present in backbone
+MRCA: AedesSkusea has crown capture probability 0.00 < 0.80 (1/4 species)
+MRCA: AedesStegomyia not monophyletic in backbone (from Aedes africanus)
+MRCA: AedesTanakaius not present in backbone
+MRCA: AedesTewarius not present in backbone
+MRCA: AedesVansomerenis not present in backbone
+MRCA: AedesZavortinkius not present in backbone
+MRCA: Armigeres has crown capture probability 0.35 < 0.80 (2/58 species)
+MRCA: ArmigeresArmigeres has crown capture probability 0.35 < 0.80 (2/40 species)
+MRCA: ArmigeresLeicesteria not present in backbone
+MRCA: Eretmapodites has crown capture probability 0.00 < 0.80 (1/48 species)
+MRCA: EretmapoditesEretmapodites has crown capture probability 0.00 < 0.80 (1/48 species)
+MRCA: Haemagogus has crown capture probability 0.36 < 0.80 (2/28 species)
+MRCA: HaemagogusConopostegus has crown capture probability 0.00 < 0.80 (1/4 species)
+MRCA: HaemagogusHaemagogus has crown capture probability 0.00 < 0.80 (1/24 species)
+MRCA: Heizmannia not present in backbone
+MRCA: HeizmanniaHeizmannia not present in backbone
+MRCA: Opifex is a cherry
+MRCA: Opifex__subgenus__ is a cherry
+MRCA: Psorophora b=0.09, d=0.00, sf=0.29 (14/49), ccp=0.90
+MRCA: PsorophoraGrabhamia b=0.07, d=0.00, sf=0.38 (6/16), ccp=0.81
+MRCA: PsorophoraJanthinosoma has crown capture probability 0.73 < 0.80 (5/23 species)
+MRCA: PsorophoraPsorophora has crown capture probability 0.61 < 0.80 (3/10 species)
+MRCA: Udaya not present in backbone
+MRCA: UdayaUdaya not present in backbone
+MRCA: Verrallina has crown capture probability 0.51 < 0.80 (3/95 species)
+MRCA: VerrallinaHarbachius not present in backbone
+MRCA: VerrallinaNeomacleaya not present in backbone
+MRCA: VerrallinaVerrallina has crown capture probability 0.53 < 0.80 (3/30 species)
+MRCA: Zeugnomyia not present in backbone
+MRCA: ZeugnomyiaZeugnomyia not present in backbone
+MRCA: Culicini b=0.38, d=0.31, sf=0.06 (49/797), ccp=0.96
+MRCA: Culex not monophyletic in backbone (from Deinocerites cancer, Lutzia halifaxii and 1 others)
+MRCA: CulexAcalleomyia not present in backbone
+MRCA: CulexAcallyntrum not present in backbone
+MRCA: CulexAedinus has crown capture probability 0.00 < 0.80 (1/4 species)
+MRCA: CulexAfroculex not present in backbone
+MRCA: CulexAllimanta not present in backbone
+MRCA: CulexAnoedioporpa not present in backbone
+MRCA: CulexBarraudius not present in backbone
+MRCA: CulexBelkinomyia not present in backbone
+MRCA: CulexCarrollia not present in backbone
+MRCA: CulexCulex not monophyletic in backbone (from Culex squamosus, Culex castroi and 3 others)
+MRCA: CulexCuliciomyia has crown capture probability 0.00 < 0.80 (1/54 species)
+MRCA: CulexEumelanomyia not present in backbone
+MRCA: CulexKitzmilleria not present in backbone
+MRCA: CulexLasiosiphon not present in backbone
+MRCA: CulexLophoceraomyia has crown capture probability 0.34 < 0.80 (2/112 species)
+MRCA: CulexMaillotia not present in backbone
+MRCA: CulexMelanoconion not monophyletic in backbone (from Deinocerites cancer, Culex biscaynensis and 4 others)
+MRCA: CulexMicraedes has crown capture probability 0.43 < 0.80 (2/8 species)
+MRCA: CulexMicroculex has crown capture probability 0.00 < 0.80 (1/33 species)
+MRCA: CulexNeoculex not monophyletic in backbone (from Culex pullus, Culex globocoxitus and 30 others)
+MRCA: CulexNicaromyia not present in backbone
+MRCA: CulexOculeomyia has crown capture probability 0.37 < 0.80 (2/19 species)
+MRCA: CulexPhenacomyia has crown capture probability 0.00 < 0.80 (1/3 species)
+MRCA: CulexPhytotelmatomyia has crown capture probability 0.00 < 0.80 (1/4 species)
+MRCA: CulexSirivanakarnius not present in backbone
+MRCA: CulexTinolestes not present in backbone
+MRCA: Culexsubgenusuncertain not present in backbone
+MRCA: Deinocerites has crown capture probability 0.37 < 0.80 (2/18 species)
+MRCA: DeinoceritesDeinocerites has crown capture probability 0.37 < 0.80 (2/18 species)
+MRCA: Galindomyia not present in backbone
+MRCA: GalindomyiaGalindomyia not present in backbone
+MRCA: Lutzia has crown capture probability 0.00 < 0.80 (1/8 species)
+MRCA: LutziaInsulalutzia not present in backbone
+MRCA: LutziaLutzia not present in backbone
+MRCA: LutziaMetalutzia has crown capture probability 0.00 < 0.80 (1/5 species)
+MRCA: Culisetini b=0.07, d=0.05, sf=0.24 (9/37), ccp=0.84
+MRCA: Culiseta b=0.07, d=0.05, sf=0.24 (9/37), ccp=0.84
+MRCA: CulisetaAllotheobaldia is a singleton
+MRCA: CulisetaAustrotheobaldia not present in backbone
+MRCA: CulisetaClimacura has crown capture probability 0.00 < 0.80 (1/5 species)
+MRCA: CulisetaCulicella not monophyletic in backbone (from Culiseta alaskaensis, Culiseta inornata and 4 others)
+MRCA: CulisetaCuliseta has crown capture probability 0.71 < 0.80 (4/12 species)
+MRCA: CulisetaNeotheobaldia not present in backbone
+MRCA: CulisetaTheomyia not present in backbone
+MRCA: Culisetasubgenusuncertain not present in backbone
+MRCA: Ficalbiini not present in backbone
+MRCA: Ficalbia not present in backbone
+MRCA: FicalbiaFicalbia not present in backbone
+MRCA: Mimomyia not present in backbone
+MRCA: MimomyiaMimomyia not present in backbone
+MRCA: Hodgesiini not present in backbone
+MRCA: Hodgesia not present in backbone
+MRCA: HodgesiaHodgesia not present in backbone
+MRCA: Mansoniini has crown capture probability 0.77 < 0.80 (7/82 species)
+MRCA: Coquillettidia has crown capture probability 0.52 < 0.80 (3/57 species)
+MRCA: CoquillettidiaAustromansonia not present in backbone
+MRCA: CoquillettidiaCoquillettidia has crown capture probability 0.52 < 0.80 (3/43 species)
+MRCA: CoquillettidiaRhynchotaenia not present in backbone
+MRCA: Mansonia has crown capture probability 0.65 < 0.80 (4/25 species)
+MRCA: MansoniaMansonia has crown capture probability 0.57 < 0.80 (3/15 species)
+MRCA: MansoniaMansonioides has crown capture probability 0.00 < 0.80 (1/10 species)
+MRCA: Orthopodomyiini  has crown capture probability 0.35 < 0.80 (2/36 species)
+MRCA: Orthopodomyia has crown capture probability 0.35 < 0.80 (2/36 species)
+MRCA: OrthopodomyiaOrthopodomyia has crown capture probability 0.35 < 0.80 (2/36 species)
+MRCA: Sabethini b=0.22, d=0.15, sf=0.02 (10/433), ccp=0.82
+MRCA: Isostomyia not present in backbone
+MRCA: IsostomyiaIsostomyia not present in backbone
+MRCA: Johnbelkinia not present in backbone
+MRCA: JohnbelkiniaJohnbelkinia not present in backbone
+MRCA: Kimia not present in backbone
+MRCA: KimiaKimia not present in backbone
+MRCA: Limatus has crown capture probability 0.00 < 0.80 (1/9 species)
+MRCA: LimatusLimatus has crown capture probability 0.00 < 0.80 (1/9 species)
+MRCA: Malaya not present in backbone
+MRCA: MalayaMalaya not present in backbone
+MRCA: Maorigoeldia not present in backbone
+MRCA: MaorigoeldiaMaorigoeldia not present in backbone
+MRCA: Onirion not present in backbone
+MRCA: OnirionOnirion not present in backbone
+MRCA: Runchomyia not present in backbone
+MRCA: RunchomyiaRunchomyia not present in backbone
+MRCA: Sabethes has crown capture probability 0.35 < 0.80 (2/41 species)
+MRCA: SabethesSabethes has crown capture probability 0.35 < 0.80 (2/41 species)
+MRCA: Shannoniana not present in backbone
+MRCA: ShannonianaShannoniana not present in backbone
+MRCA: Topomyia not present in backbone
+MRCA: TopomyiaTopomyia not present in backbone
+MRCA: Trichoprosopon has crown capture probability 0.00 < 0.80 (1/13 species)
+MRCA: TrichoprosoponTrichoprosopon has crown capture probability 0.00 < 0.80 (1/13 species)
+MRCA: Tripteroides has crown capture probability 0.51 < 0.80 (3/122 species)
+MRCA: TripteroidesPolylepidomyia has crown capture probability 0.00 < 0.80 (1/19 species)
+MRCA: TripteroidesRachionotomyia has crown capture probability 0.00 < 0.80 (1/14 species)
+MRCA: TripteroidesRachisoura has crown capture probability 0.00 < 0.80 (1/28 species)
+MRCA: TripteroidesTricholeptomyia not present in backbone
+MRCA: TripteroidesTripteroides not present in backbone
+MRCA: Wyeomyia has crown capture probability 0.51 < 0.80 (3/140 species)
+MRCA: WyeomyiaAntunesmyia not present in backbone
+MRCA: WyeomyiaCaenomyiella not present in backbone
+MRCA: WyeomyiaCruzmyia not present in backbone
+MRCA: WyeomyiaDecamyia not present in backbone
+MRCA: WyeomyiaDendromyia not present in backbone
+MRCA: WyeomyiaDodecamyia not present in backbone
+MRCA: WyeomyiaExallomyia not present in backbone
+MRCA: WyeomyiaHystatomyia not present in backbone
+MRCA: WyeomyiaMenolepis not present in backbone
+MRCA: WyeomyiaMiamyia not present in backbone
+MRCA: WyeomyiaNunezia not present in backbone
+MRCA: WyeomyiaPhoniomyia not present in backbone
+MRCA: WyeomyiaProsopolepis not present in backbone
+MRCA: WyeomyiaSpilonympha not present in backbone
+MRCA: WyeomyiaTriamyia not present in backbone
+MRCA: WyeomyiaWyeomyia has crown capture probability 0.53 < 0.80 (3/35 species)
+MRCA: WyeomyiaZinzala not present in backbone
+MRCA: Wyeomyiasubgenusuncertain not present in backbone
+MRCA: Toxorhynchitini has crown capture probability 0.61 < 0.80 (4/90 species)
+MRCA: Toxorhynchites has crown capture probability 0.61 < 0.80 (4/90 species)
+MRCA: ToxorhynchitesAfrorhynchus not present in backbone
+MRCA: ToxorhynchitesAnkylorhynchus not present in backbone
+MRCA: ToxorhynchitesLynchiella has crown capture probability 0.56 < 0.80 (3/17 species)
+MRCA: ToxorhynchitesToxorhynchites has crown capture probability 0.00 < 0.80 (1/50 species)
+MRCA: Uranotaeniini has crown capture probability 0.50 < 0.80 (3/271 species)
+MRCA: Uranotaenia has crown capture probability 0.50 < 0.80 (3/271 species)
+MRCA: UranotaeniaPseudoficalbia not present in backbone
+MRCA: UranotaeniaUranotaenia has crown capture probability 0.51 < 0.80 (3/121 species)
+FastMRCA calculation time: 8.7 seconds
+**  AnophelesAnopheles (16/185)  **
+    AnophelesAnopheles: is not monophyletic
+**  AnophelesBaimaia (0/1)  **
+    AnophelesBaimaia: no species sampled, will create later
+**  AnophelesCellia (22/225)  **
+    AnophelesCellia: adding 203 new species
+    AnophelesCellia: tmax set to 64.10 because of max age
+    AnophelesCellia: 203 new times: b=0.57, d=0.54, tmax=64.10, tmin=0.00
+    AnophelesCellia: 39.17..0.01
+1 short branches detected
+**  AnophelesChristya (0/2)  **
+    AnophelesChristya: no species sampled, will create later
+**  AnophelesKerteszia (1/12)  **
+    AnophelesKerteszia: adding 11 new species
+    AnophelesKerteszia: tmax set to 63.97 because ccp 0.00 < 0.8
+    AnophelesKerteszia: 11 new times: b=0.18, d=0.14, tmax=63.97, tmin=0.00
+    AnophelesKerteszia: 42.79..0.23
+**  AnophelesLophopodomyia (1/6)  **
+    AnophelesLophopodomyia: adding 5 new species
+    AnophelesLophopodomyia: tmax set to 81.08 because ccp 0.00 < 0.8
+    AnophelesLophopodomyia: 5 new times: b=0.18, d=0.14, tmax=81.08, tmin=0.00
+    AnophelesLophopodomyia: 16.30, 15.66, 4.65, 1.48, 1.30
+**  AnophelesNyssorhynchus (8/40)  **
+    AnophelesNyssorhynchus: adding 32 new species
+    AnophelesNyssorhynchus: tmax set to 34.86 because of max age
+    AnophelesNyssorhynchus: 32 new times: b=0.12, d=0.04, tmax=34.86, tmin=0.00
+    AnophelesNyssorhynchus: 24.54..0.05
+**  AnophelesStethomyia (1/5)  **
+    AnophelesStethomyia: adding 4 new species
+    AnophelesStethomyia: tmax set to 95.26 because ccp 0.00 < 0.8
+    AnophelesStethomyia: 4 new times: b=0.18, d=0.14, tmax=95.26, tmin=0.00
+    AnophelesStethomyia: 9.30, 8.36, 7.65, 1.98
+**  Anopheles (304/476)  **
+    Anopheles: adding clade AnophelesChristya (n=2)
+    Anopheles: tmax set to 103.43 because of max age
+    Anopheles: 2 new times: b=0.18, d=0.14, tmax=103.43, tmin=0.00
+    Anopheles: 1.97, 0.48
+    Anopheles: adding clade AnophelesBaimaia (n=1)
+    Anopheles: tmax set to 103.43 because of max age
+    Anopheles: 1 new times: b=0.18, d=0.14, tmax=103.43, tmin=0.00
+    Anopheles: 4.03
+    Anopheles: adding 169 new species
+    Anopheles: tmax set to 103.43 because of max age
+    Anopheles: 169 new times: b=0.18, d=0.14, tmax=103.43, tmin=0.00
+    Anopheles: 37.58..0.03
+1 short branches detected
+**  BironellaBironella (0/2)  **
+    BironellaBironella: no species sampled, will create later
+**  BironellaBrugella (0/3)  **
+    BironellaBrugella: no species sampled, will create later
+**  BironellaNeobironella (0/3)  **
+    BironellaNeobironella: no species sampled, will create later
+**  Bironella (0/8)  **
+    Bironella: no species sampled, will create later
+**  ChagasiaChagasia (2/5)  **
+    ChagasiaChagasia: adding 3 new species
+    ChagasiaChagasia: tmax set to 142.74 because ccp 0.50 < 0.8
+    ChagasiaChagasia: 3 new times: b=0.30, d=0.28, tmax=142.74, tmin=0.00
+    ChagasiaChagasia: 9.48, 2.47, 2.23
+**  Chagasia (5/5)  **
+    Chagasia: all species accounted for
+**  None (481/489)  **
+    None: adding clade BironellaBrugella (n=3)
+    None: tmax set to 142.74 because of max age
+    None: 3 new times: b=0.30, d=0.28, tmax=142.74, tmin=0.00
+    None: 4.78, 0.87, 0.79
+    None: has a minimum age constraint 29.54, but oldest generated time was 4.78
+    None: tmax set to 142.74 because of max age
+    None: 1 new times: b=0.30, d=0.28, tmax=142.74, tmin=29.54
+    None: 82.80
+    None: adding clade BironellaBironella (n=2)
+    None: tmax set to 142.74 because of max age
+    None: 2 new times: b=0.30, d=0.28, tmax=142.74, tmin=0.00
+    None: 2.10, 0.81
+    None: adding clade BironellaNeobironella (n=3)
+    None: tmax set to 142.74 because of max age
+    None: 3 new times: b=0.30, d=0.28, tmax=142.74, tmin=0.00
+    None: 0.80, 0.33, 0.19
+    None: has a minimum age constraint 0.81, but oldest generated time was 0.80
+    None: tmax set to 142.74 because of max age
+    None: 1 new times: b=0.30, d=0.28, tmax=142.74, tmin=0.81
+    None: 5.35
+    None: skipping clade Bironella as all species already present in tree
+**  Anophelinae (489/489)  **
+    Anophelinae: all species accounted for
+**  AedeomyiaAedeomyia (2/6)  **
+    AedeomyiaAedeomyia: adding 4 new species
+    AedeomyiaAedeomyia: tmax set to 133.20 because ccp 0.47 < 0.8
+    AedeomyiaAedeomyia: 4 new times: b=0.30, d=0.24, tmax=133.20, tmin=0.00
+    AedeomyiaAedeomyia: 24.00, 2.27, 0.79, 0.56
+**  AedeomyiaLepiothauma (0/1)  **
+    AedeomyiaLepiothauma: no species sampled, will create later
+**  Aedeomyia (6/7)  **
+    Aedeomyia: adding clade AedeomyiaLepiothauma (n=1)
+    Aedeomyia: tmax set to 133.20 because ccp 0.44 < 0.8
+    Aedeomyia: 1 new times: b=0.30, d=0.24, tmax=133.20, tmin=0.00
+    Aedeomyia: 8.34
+    Aedeomyia: is fully locked, so attaching to stem
+    Aedeomyia: tmax 133.20 => 133.20 because ccp 0.44 < 0.8
+    Aedeomyia: 1 new times: b=0.30, d=0.24, tmax=133.20, tmin=46.08
+    Aedeomyia: 47.95
+**  Aedeomyiini (7/7)  **
+    Aedeomyiini: all species accounted for
+**  AedesAbraedes (0/1)  **
+    AedesAbraedes: no species sampled, will create later
+**  AedesAcartomyia (0/3)  **
+    AedesAcartomyia: no species sampled, will create later
+**  AedesAedes (1/12)  **
+    AedesAedes: adding 11 new species
+    AedesAedes: tmax set to 31.53 because ccp 0.00 < 0.8
+    AedesAedes: 11 new times: b=0.15, d=0.06, tmax=31.53, tmin=0.00
+    AedesAedes: 21.48..0.63
+**  AedesAedimorphus (7/66)  **
+    AedesAedimorphus: is not monophyletic
+**  AedesAlanstonea (0/2)  **
+    AedesAlanstonea: no species sampled, will create later
+**  AedesAlbuginosus (0/9)  **
+    AedesAlbuginosus: no species sampled, will create later
+**  AedesAyurakitia (0/2)  **
+    AedesAyurakitia: no species sampled, will create later
+**  AedesAztecaedes (0/1)  **
+    AedesAztecaedes: no species sampled, will create later
+**  AedesBelkinius (0/1)  **
+    AedesBelkinius: no species sampled, will create later
+**  AedesBifidistylus (0/2)  **
+    AedesBifidistylus: no species sampled, will create later
+**  AedesBorichinda (0/1)  **
+    AedesBorichinda: no species sampled, will create later
+**  AedesBothaella (0/6)  **
+    AedesBothaella: no species sampled, will create later
+**  AedesBruceharrisonius (0/9)  **
+    AedesBruceharrisonius: no species sampled, will create later
+**  AedesCancraedes (0/10)  **
+    AedesCancraedes: no species sampled, will create later
+**  AedesCatageiomyia (1/28)  **
+    AedesCatageiomyia: adding 27 new species
+    AedesCatageiomyia: tmax set to 24.53 because ccp 0.00 < 0.8
+    AedesCatageiomyia: 27 new times: b=0.15, d=0.06, tmax=24.53, tmin=0.00
+    AedesCatageiomyia: 12.35..0.10
+**  AedesCatatassomyia (0/1)  **
+    AedesCatatassomyia: no species sampled, will create later
+**  AedesChristophersiomyia (0/5)  **
+    AedesChristophersiomyia: no species sampled, will create later
+**  AedesCoetzeemyia (0/1)  **
+    AedesCoetzeemyia: no species sampled, will create later
+**  AedesCollessius (0/9)  **
+    AedesCollessius: no species sampled, will create later
+**  AedesCornetius (1/1)  **
+    AedesCornetius: all species accounted for
+**  AedesDahliana (1/3)  **
+    AedesDahliana: adding 2 new species
+    AedesDahliana: tmax set to 28.15 because ccp 0.00 < 0.8
+    AedesDahliana: 2 new times: b=0.15, d=0.06, tmax=28.15, tmin=0.00
+    AedesDahliana: 6.56, 2.42
+**  AedesDanielsia (0/3)  **
+    AedesDanielsia: no species sampled, will create later
+**  AedesDendroskusea (0/5)  **
+    AedesDendroskusea: no species sampled, will create later
+**  AedesDiceromyia (2/8)  **
+    AedesDiceromyia: adding 6 new species
+    AedesDiceromyia: tmax set to 30.01 because ccp 0.43 < 0.8
+    AedesDiceromyia: 6 new times: b=0.15, d=0.06, tmax=30.01, tmin=0.00
+    AedesDiceromyia: 11.20..1.09
+**  AedesDobrotworskyius (5/7)  **
+    AedesDobrotworskyius: adding 2 new species
+    AedesDobrotworskyius: tmax set to 12.32 because of max age
+    AedesDobrotworskyius: 2 new times: b=0.08, d=0.00, tmax=12.32, tmin=0.00
+    AedesDobrotworskyius: 4.47, 1.02
+**  AedesDownsiomyia (0/30)  **
+    AedesDownsiomyia: no species sampled, will create later
+**  AedesEdwardsaedes (0/3)  **
+    AedesEdwardsaedes: no species sampled, will create later
+**  AedesElpeytonius (0/2)  **
+    AedesElpeytonius: no species sampled, will create later
+**  AedesFinlaya (3/64)  **
+    AedesFinlaya: is not monophyletic
+**  AedesFredwardsius (1/1)  **
+    AedesFredwardsius: all species accounted for
+**  AedesGeorgecraigius (3/3)  **
+    AedesGeorgecraigius: all species accounted for
+**  AedesGeoskusea (0/10)  **
+    AedesGeoskusea: no species sampled, will create later
+**  AedesGilesius (0/2)  **
+    AedesGilesius: no species sampled, will create later
+**  AedesGymnometopa (1/1)  **
+    AedesGymnometopa: all species accounted for
+**  AedesHalaedes (2/3)  **
+    AedesHalaedes: adding 1 new species
+    AedesHalaedes: tmax set to 39.83 because ccp 0.67 < 0.8
+    AedesHalaedes: 1 new times: b=0.15, d=0.06, tmax=39.83, tmin=0.00
+    AedesHalaedes: 2.13
+**  AedesHimalaius (0/2)  **
+    AedesHimalaius: no species sampled, will create later
+**  AedesHopkinsius (0/7)  **
+    AedesHopkinsius: no species sampled, will create later
+**  AedesHowardina (0/34)  **
+    AedesHowardina: no species sampled, will create later
+**  AedesHuaedes (0/3)  **
+    AedesHuaedes: no species sampled, will create later
+**  AedesHulecoeteomyia (1/14)  **
+    AedesHulecoeteomyia: adding 13 new species
+    AedesHulecoeteomyia: tmax set to 30.38 because ccp 0.00 < 0.8
+    AedesHulecoeteomyia: 13 new times: b=0.15, d=0.06, tmax=30.38, tmin=0.00
+    AedesHulecoeteomyia: 19.84..0.18
+**  AedesIndusius (0/1)  **
+    AedesIndusius: no species sampled, will create later
+**  AedesIsoaedes (0/1)  **
+    AedesIsoaedes: no species sampled, will create later
+**  AedesJarnellius (3/5)  **
+    AedesJarnellius: adding 2 new species
+    AedesJarnellius: tmax set to 28.15 because ccp 0.75 < 0.8
+    AedesJarnellius: 2 new times: b=0.15, d=0.06, tmax=28.15, tmin=0.00
+    AedesJarnellius: 7.72, 2.76
+**  AedesJihlienius (0/3)  **
+    AedesJihlienius: no species sampled, will create later
+**  AedesKenknightia (0/12)  **
+    AedesKenknightia: no species sampled, will create later
+**  AedesKompia (1/1)  **
+    AedesKompia: all species accounted for
+**  AedesLeptosomatomyia (0/1)  **
+    AedesLeptosomatomyia: no species sampled, will create later
+**  AedesLevua (0/1)  **
+    AedesLevua: no species sampled, will create later
+**  AedesLewnielsenius (1/1)  **
+    AedesLewnielsenius: all species accounted for
+**  AedesLorrainea (0/5)  **
+    AedesLorrainea: no species sampled, will create later
+**  AedesLuius (0/1)  **
+    AedesLuius: no species sampled, will create later
+**  AedesMacleaya (2/11)  **
+    AedesMacleaya: adding 9 new species
+    AedesMacleaya: tmax set to 27.72 because ccp 0.40 < 0.8
+    AedesMacleaya: 9 new times: b=0.15, d=0.06, tmax=27.72, tmin=0.00
+    AedesMacleaya: 22.11..0.82
+**  AedesMolpemyia (0/3)  **
+    AedesMolpemyia: no species sampled, will create later
+**  AedesMucidus (1/14)  **
+    AedesMucidus: adding 13 new species
+    AedesMucidus: tmax set to 32.81 because ccp 0.00 < 0.8
+    AedesMucidus: 13 new times: b=0.15, d=0.06, tmax=32.81, tmin=0.00
+    AedesMucidus: 17.38..0.32
+**  AedesNeomelaniconion (0/28)  **
+    AedesNeomelaniconion: no species sampled, will create later
+**  AedesNyctomyia (0/2)  **
+    AedesNyctomyia: no species sampled, will create later
+**  AedesOchlerotatus (45/200)  **
+    AedesOchlerotatus: is not monophyletic
+**  AedesParaedes (0/8)  **
+    AedesParaedes: no species sampled, will create later
+**  AedesPatmarksia (1/13)  **
+    AedesPatmarksia: adding 12 new species
+    AedesPatmarksia: tmax set to 19.46 because ccp 0.00 < 0.8
+    AedesPatmarksia: 12 new times: b=0.15, d=0.06, tmax=19.46, tmin=0.00
+    AedesPatmarksia: 18.12..0.56
+**  AedesPaulianius (0/8)  **
+    AedesPaulianius: no species sampled, will create later
+**  AedesPetermattinglyius (0/5)  **
+    AedesPetermattinglyius: no species sampled, will create later
+**  AedesPhagomyia (0/16)  **
+    AedesPhagomyia: no species sampled, will create later
+**  AedesPolyleptiomyia (0/2)  **
+    AedesPolyleptiomyia: no species sampled, will create later
+**  AedesProtomacleaya (4/39)  **
+    AedesProtomacleaya: adding 35 new species
+    AedesProtomacleaya: tmax set to 33.14 because ccp 0.63 < 0.8
+    AedesProtomacleaya: 35 new times: b=0.15, d=0.06, tmax=33.14, tmin=0.00
+    AedesProtomacleaya: 16.00..0.27
+**  AedesPseudalbuginosus (0/1)  **
+    AedesPseudalbuginosus: no species sampled, will create later
+**  AedesPseudarmigeres (0/5)  **
+    AedesPseudarmigeres: no species sampled, will create later
+**  AedesRampamyia (2/3)  **
+    AedesRampamyia: adding 1 new species
+    AedesRampamyia: tmax set to 27.72 because ccp 0.67 < 0.8
+    AedesRampamyia: 1 new times: b=0.15, d=0.06, tmax=27.72, tmin=0.00
+    AedesRampamyia: 3.66
+**  AedesRhinoskusea (0/4)  **
+    AedesRhinoskusea: no species sampled, will create later
+**  AedesSallumia (0/2)  **
+    AedesSallumia: no species sampled, will create later
+**  AedesScutomyia (0/9)  **
+    AedesScutomyia: no species sampled, will create later
+**  AedesSkusea (1/4)  **
+    AedesSkusea: adding 3 new species
+    AedesSkusea: tmax set to 35.31 because ccp 0.00 < 0.8
+    AedesSkusea: 3 new times: b=0.15, d=0.06, tmax=35.31, tmin=0.00
+    AedesSkusea: 2.72, 1.80, 1.65
+**  AedesStegomyia (9/128)  **
+    AedesStegomyia: is not monophyletic
+**  AedesTanakaius (0/2)  **
+    AedesTanakaius: no species sampled, will create later
+**  AedesTewarius (0/4)  **
+    AedesTewarius: no species sampled, will create later
+**  AedesVansomerenis (0/3)  **
+    AedesVansomerenis: no species sampled, will create later
+**  AedesZavortinkius (0/11)  **
+    AedesZavortinkius: no species sampled, will create later
+**  Aedes (236/932)  **
+    Aedes: is not monophyletic
+**  ArmigeresArmigeres (2/40)  **
+    ArmigeresArmigeres: adding 38 new species
+    ArmigeresArmigeres: tmax set to 35.43 because ccp 0.35 < 0.8
+    ArmigeresArmigeres: 38 new times: b=0.15, d=0.06, tmax=35.43, tmin=0.00
+    ArmigeresArmigeres: 31.70..0.34
+**  ArmigeresLeicesteria (0/18)  **
+    ArmigeresLeicesteria: no species sampled, will create later
+**  Armigeres (40/58)  **
+    Armigeres: adding clade ArmigeresLeicesteria (n=18)
+    Armigeres: tmax set to 35.43 because ccp 0.35 < 0.8
+    Armigeres: 18 new times: b=0.15, d=0.06, tmax=35.43, tmin=0.00
+    Armigeres: 7.45..0.01
+    Armigeres: is fully locked, so attaching to stem
+    Armigeres: tmax 35.43 => 35.43 because ccp 0.35 < 0.8
+    Armigeres: 1 new times: b=0.15, d=0.06, tmax=35.43, tmin=31.70
+    Armigeres: 33.29
+**  EretmapoditesEretmapodites (1/48)  **
+    EretmapoditesEretmapodites: adding 47 new species
+    EretmapoditesEretmapodites: tmax set to 35.43 because ccp 0.00 < 0.8
+    EretmapoditesEretmapodites: 47 new times: b=0.15, d=0.06, tmax=35.43, tmin=0.00
+    EretmapoditesEretmapodites: 26.33..0.28
+**  Eretmapodites (48/48)  **
+    Eretmapodites: all species accounted for
+**  HaemagogusConopostegus (1/4)  **
+    HaemagogusConopostegus: adding 3 new species
+    HaemagogusConopostegus: tmax set to 21.60 because ccp 0.00 < 0.8
+    HaemagogusConopostegus: 3 new times: b=0.15, d=0.06, tmax=21.60, tmin=0.00
+    HaemagogusConopostegus: 8.30, 6.48, 2.70
+**  HaemagogusHaemagogus (1/24)  **
+    HaemagogusHaemagogus: adding 23 new species
+    HaemagogusHaemagogus: tmax set to 21.60 because ccp 0.00 < 0.8
+    HaemagogusHaemagogus: 23 new times: b=0.15, d=0.06, tmax=21.60, tmin=0.00
+    HaemagogusHaemagogus: 20.77..0.02
+**  Haemagogus (28/28)  **
+    Haemagogus: all species accounted for
+**  HeizmanniaHeizmannia (0/38)  **
+    HeizmanniaHeizmannia: no species sampled, will create later
+**  Heizmannia (0/38)  **
+    Heizmannia: no species sampled, will create later
+**  Opifex__subgenus__ (1/2)  **
+    Opifex__subgenus__: adding 1 new species
+    Opifex__subgenus__: tmax set to 39.83 because ccp 0.00 < 0.8
+    Opifex__subgenus__: 1 new times: b=0.15, d=0.06, tmax=39.83, tmin=0.00
+    Opifex__subgenus__: 6.43
+**  Opifex (2/2)  **
+    Opifex: all species accounted for
+**  PsorophoraGrabhamia (6/16)  **
+    PsorophoraGrabhamia: adding 10 new species
+    PsorophoraGrabhamia: tmax set to 25.50 because of max age
+    PsorophoraGrabhamia: 10 new times: b=0.07, d=0.00, tmax=25.50, tmin=0.00
+    PsorophoraGrabhamia: 25.43..0.56
+**  PsorophoraJanthinosoma (5/23)  **
+    PsorophoraJanthinosoma: adding 18 new species
+    PsorophoraJanthinosoma: tmax set to 31.63 because ccp 0.73 < 0.8
+    PsorophoraJanthinosoma: 18 new times: b=0.09, d=0.00, tmax=31.63, tmin=0.00
+    PsorophoraJanthinosoma: 29.89..0.47
+**  PsorophoraPsorophora (3/10)  **
+    PsorophoraPsorophora: adding 7 new species
+    PsorophoraPsorophora: tmax set to 31.63 because ccp 0.61 < 0.8
+    PsorophoraPsorophora: 7 new times: b=0.09, d=0.00, tmax=31.63, tmin=0.00
+    PsorophoraPsorophora: 12.18..0.30
+**  Psorophora (49/49)  **
+    Psorophora: all species accounted for
+**  UdayaUdaya (0/3)  **
+    UdayaUdaya: no species sampled, will create later
+**  Udaya (0/3)  **
+    Udaya: no species sampled, will create later
+**  VerrallinaHarbachius (0/13)  **
+    VerrallinaHarbachius: no species sampled, will create later
+**  VerrallinaNeomacleaya (0/52)  **
+    VerrallinaNeomacleaya: no species sampled, will create later
+**  VerrallinaVerrallina (3/30)  **
+    VerrallinaVerrallina: adding 27 new species
+    VerrallinaVerrallina: tmax set to 31.53 because ccp 0.53 < 0.8
+    VerrallinaVerrallina: 27 new times: b=0.15, d=0.06, tmax=31.53, tmin=0.00
+    VerrallinaVerrallina: 10.32..0.17
+**  Verrallina (30/95)  **
+    Verrallina: adding clade VerrallinaHarbachius (n=13)
+    Verrallina: tmax set to 31.53 because ccp 0.51 < 0.8
+    Verrallina: 13 new times: b=0.15, d=0.06, tmax=31.53, tmin=0.00
+    Verrallina: 5.38..0.14
+    Verrallina: is fully locked, so attaching to stem
+    Verrallina: tmax 31.53 => 31.53 because ccp 0.51 < 0.8
+    Verrallina: 1 new times: b=0.15, d=0.06, tmax=31.53, tmin=11.24
+    Verrallina: 11.76
+    Verrallina: adding clade VerrallinaNeomacleaya (n=52)
+    Verrallina: tmax set to 31.53 because ccp 0.51 < 0.8
+    Verrallina: 52 new times: b=0.15, d=0.06, tmax=31.53, tmin=0.00
+    Verrallina: 16.06..0.05
+**  ZeugnomyiaZeugnomyia (0/4)  **
+    ZeugnomyiaZeugnomyia: no species sampled, will create later
+**  Zeugnomyia (0/4)  **
+    Zeugnomyia: no species sampled, will create later
+**  Aedini (516/1257)  **
+    Aedini: adding clade AedesMolpemyia (n=3)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 3 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 1.87, 1.44, 0.06
+    Aedini: adding clade AedesRhinoskusea (n=4)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 4 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 3.27, 3.04, 2.96, 0.01
+    Aedini: adding clade AedesCoetzeemyia (n=1)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 1 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 1.08
+    Aedini: adding clade AedesScutomyia (n=9)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 9 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 6.65..0.15
+1 short branches detected
+    Aedini: adding clade AedesNeomelaniconion (n=28)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 28 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 10.68..0.20
+    Aedini: adding clade AedesPhagomyia (n=16)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 16 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 8.92..0.36
+    Aedini: adding clade AedesZavortinkius (n=11)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 11 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 4.97..0.07
+    Aedini: adding clade AedesCatatassomyia (n=1)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 1 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 5.16
+    Aedini: adding clade AedesElpeytonius (n=2)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 2 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 2.80, 2.65
+    Aedini: adding clade AedesBifidistylus (n=2)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 2 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 4.71, 0.36
+    Aedini: adding clade AedesDownsiomyia (n=30)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 30 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 16.65..0.12
+    Aedini: adding clade AedesHimalaius (n=2)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 2 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 2.54, 1.03
+    Aedini: adding clade AedesTanakaius (n=2)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 2 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 9.88, 2.75
+    Aedini: adding clade AedesChristophersiomyia (n=5)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 5 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 10.53, 6.30, 5.31, 4.29, 1.74
+    Aedini: adding clade AedesIndusius (n=1)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 1 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 6.59
+    Aedini: adding clade AedesAbraedes (n=1)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 1 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 2.04
+    Aedini: adding clade AedesPetermattinglyius (n=5)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 5 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 4.29, 3.24, 2.36, 1.53, 1.34
+    Aedini: adding clade AedesHowardina (n=34)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 34 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 24.88..0.07
+    Aedini: adding clade AedesPseudarmigeres (n=5)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 5 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 6.57, 5.13, 3.11, 0.50, 0.02
+    Aedini: adding clade AedesAlbuginosus (n=9)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 9 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 3.49..0.40
+    Aedini: adding clade AedesLorrainea (n=5)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 5 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 5.67, 4.11, 3.51, 2.24, 1.39
+    Aedini: adding clade AedesPseudalbuginosus (n=1)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 1 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 0.19
+    Aedini: adding clade AedesParaedes (n=8)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 8 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 4.81..0.35
+    Aedini: adding clade UdayaUdaya (n=3)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 3 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 1.89, 1.33, 0.66
+    Aedini: adding clade AedesDanielsia (n=3)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 3 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 4.51, 0.35, 0.19
+    Aedini: adding clade AedesNyctomyia (n=2)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 2 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 3.59, 0.87
+    Aedini: adding clade AedesBelkinius (n=1)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 1 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 0.41
+    Aedini: adding clade AedesBruceharrisonius (n=9)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 9 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 5.56..0.17
+    Aedini: adding clade AedesGilesius (n=2)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 2 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 6.45, 0.45
+    Aedini: adding clade AedesIsoaedes (n=1)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 1 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 7.01
+    Aedini: adding clade AedesDendroskusea (n=5)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 5 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 7.59, 5.94, 5.42, 4.53, 0.53
+    Aedini: adding clade AedesLeptosomatomyia (n=1)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 1 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 1.93
+    Aedini: adding clade AedesPolyleptiomyia (n=2)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 2 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 6.27, 3.13
+    Aedini: adding clade AedesAyurakitia (n=2)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 2 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 5.26, 0.70
+    Aedini: adding clade AedesEdwardsaedes (n=3)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 3 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 18.67, 11.15, 6.71
+    Aedini: adding clade AedesAztecaedes (n=1)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 1 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 3.78
+    Aedini: adding clade AedesAlanstonea (n=2)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 2 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 0.84, 0.36
+    Aedini: adding clade AedesBothaella (n=6)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 6 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 3.80..0.73
+    Aedini: adding clade AedesLevua (n=1)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 1 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 0.27
+    Aedini: adding clade AedesCancraedes (n=10)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 10 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 12.89..0.29
+    Aedini: adding clade AedesHopkinsius (n=7)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 7 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 18.37..0.46
+    Aedini: adding clade AedesSallumia (n=2)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 2 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 6.01, 0.56
+    Aedini: adding clade AedesAcartomyia (n=3)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 3 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 5.18, 0.79, 0.60
+    Aedini: adding clade AedesGeoskusea (n=10)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 10 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 14.17..0.31
+    Aedini: adding clade AedesKenknightia (n=12)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 12 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 8.34..0.20
+    Aedini: adding clade AedesCollessius (n=9)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 9 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 9.65..0.57
+    Aedini: adding clade AedesVansomerenis (n=3)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 3 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 5.23, 4.65, 1.05
+    Aedini: adding clade AedesHuaedes (n=3)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 3 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 1.30, 1.00, 0.30
+    Aedini: adding clade ZeugnomyiaZeugnomyia (n=4)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 4 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 2.70, 0.91, 0.75, 0.19
+    Aedini: adding clade AedesJihlienius (n=3)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 3 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 10.45, 3.40, 2.70
+    Aedini: adding clade AedesPaulianius (n=8)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 8 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 8.62..0.08
+    Aedini: adding clade AedesBorichinda (n=1)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 1 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 3.41
+    Aedini: adding clade HeizmanniaHeizmannia (n=38)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 38 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 11.02..0.02
+    Aedini: adding clade AedesLuius (n=1)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 1 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 3.35
+    Aedini: adding clade AedesTewarius (n=4)
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 4 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 8.49, 0.98, 0.37, 0.14
+    Aedini: skipping clade Zeugnomyia as all species already present in tree
+    Aedini: skipping clade Heizmannia as all species already present in tree
+    Aedini: skipping clade Udaya as all species already present in tree
+    Aedini: adding 394 new species
+    Aedini: tmax set to 87.61 because of max age
+    Aedini: 394 new times: b=0.15, d=0.06, tmax=87.61, tmin=0.00
+    Aedini: 24.45..0.01
+1 short branches detected
+**  CulexAcalleomyia (0/1)  **
+    CulexAcalleomyia: no species sampled, will create later
+**  CulexAcallyntrum (0/8)  **
+    CulexAcallyntrum: no species sampled, will create later
+**  CulexAedinus (1/4)  **
+    CulexAedinus: adding 3 new species
+    CulexAedinus: tmax set to 34.02 because ccp 0.00 < 0.8
+    CulexAedinus: 3 new times: b=0.38, d=0.31, tmax=34.02, tmin=0.00
+    CulexAedinus: 7.70, 7.55, 1.38
+**  CulexAfroculex (0/1)  **
+    CulexAfroculex: no species sampled, will create later
+**  CulexAllimanta (0/1)  **
+    CulexAllimanta: no species sampled, will create later
+**  CulexAnoedioporpa (0/12)  **
+    CulexAnoedioporpa: no species sampled, will create later
+**  CulexBarraudius (0/4)  **
+    CulexBarraudius: no species sampled, will create later
+**  CulexBelkinomyia (0/1)  **
+    CulexBelkinomyia: no species sampled, will create later
+**  CulexCarrollia (0/18)  **
+    CulexCarrollia: no species sampled, will create later
+**  CulexCulex (24/201)  **
+    CulexCulex: is not monophyletic
+**  CulexCuliciomyia (1/54)  **
+    CulexCuliciomyia: adding 53 new species
+    CulexCuliciomyia: tmax set to 37.25 because ccp 0.00 < 0.8
+    CulexCuliciomyia: 53 new times: b=0.38, d=0.31, tmax=37.25, tmin=0.00
+    CulexCuliciomyia: 32.57..0.08
+**  CulexEumelanomyia (0/77)  **
+    CulexEumelanomyia: no species sampled, will create later
+**  CulexKitzmilleria (0/1)  **
+    CulexKitzmilleria: no species sampled, will create later
+**  CulexLasiosiphon (0/1)  **
+    CulexLasiosiphon: no species sampled, will create later
+**  CulexLophoceraomyia (2/112)  **
+    CulexLophoceraomyia: adding 110 new species
+    CulexLophoceraomyia: tmax set to 44.24 because ccp 0.34 < 0.8
+    CulexLophoceraomyia: 110 new times: b=0.38, d=0.31, tmax=44.24, tmin=0.00
+    CulexLophoceraomyia: 28.18..0.01
+**  CulexMaillotia (0/9)  **
+    CulexMaillotia: no species sampled, will create later
+**  CulexMelanoconion (7/160)  **
+    CulexMelanoconion: is not monophyletic
+**  CulexMicraedes (2/8)  **
+    CulexMicraedes: adding 6 new species
+    CulexMicraedes: tmax set to 33.03 because ccp 0.43 < 0.8
+    CulexMicraedes: 6 new times: b=0.38, d=0.31, tmax=33.03, tmin=0.00
+    CulexMicraedes: 3.80..0.36
+**  CulexMicroculex (1/33)  **
+    CulexMicroculex: adding 32 new species
+    CulexMicroculex: tmax set to 41.51 because ccp 0.00 < 0.8
+    CulexMicroculex: 32 new times: b=0.38, d=0.31, tmax=41.51, tmin=0.00
+    CulexMicroculex: 21.05..0.21
+**  CulexNeoculex (4/26)  **
+    CulexNeoculex: is not monophyletic
+**  CulexNicaromyia (0/1)  **
+    CulexNicaromyia: no species sampled, will create later
+**  CulexOculeomyia (2/19)  **
+    CulexOculeomyia: adding 17 new species
+    CulexOculeomyia: tmax set to 14.02 because ccp 0.37 < 0.8
+    CulexOculeomyia: 17 new times: b=0.38, d=0.31, tmax=14.02, tmin=0.00
+    CulexOculeomyia: 7.74..0.13
+**  CulexPhenacomyia (1/3)  **
+    CulexPhenacomyia: adding 2 new species
+    CulexPhenacomyia: tmax set to 15.37 because ccp 0.00 < 0.8
+    CulexPhenacomyia: 2 new times: b=0.38, d=0.31, tmax=15.37, tmin=0.00
+    CulexPhenacomyia: 7.98, 1.35
+**  CulexPhytotelmatomyia (1/4)  **
+    CulexPhytotelmatomyia: adding 3 new species
+    CulexPhytotelmatomyia: tmax set to 8.40 because ccp 0.00 < 0.8
+    CulexPhytotelmatomyia: 3 new times: b=0.38, d=0.31, tmax=8.40, tmin=0.00
+    CulexPhytotelmatomyia: 2.11, 1.26, 0.98
+**  CulexSirivanakarnius (0/1)  **
+    CulexSirivanakarnius: no species sampled, will create later
+**  CulexTinolestes (0/3)  **
+    CulexTinolestes: no species sampled, will create later
+**  Culexsubgenusuncertain (0/7)  **
+    Culexsubgenusuncertain: no species sampled, will create later
+**  Culex (272/770)  **
+    Culex: is not monophyletic
+**  DeinoceritesDeinocerites (2/18)  **
+    DeinoceritesDeinocerites: adding 16 new species
+    DeinoceritesDeinocerites: tmax set to 33.03 because ccp 0.37 < 0.8
+    DeinoceritesDeinocerites: 16 new times: b=0.38, d=0.31, tmax=33.03, tmin=0.00
+    DeinoceritesDeinocerites: 9.52..0.01
+**  Deinocerites (18/18)  **
+    Deinocerites: all species accounted for
+**  GalindomyiaGalindomyia (0/1)  **
+    GalindomyiaGalindomyia: no species sampled, will create later
+**  Galindomyia (0/1)  **
+    Galindomyia: no species sampled, will create later
+**  LutziaInsulalutzia (0/1)  **
+    LutziaInsulalutzia: no species sampled, will create later
+**  LutziaLutzia (0/2)  **
+    LutziaLutzia: no species sampled, will create later
+**  LutziaMetalutzia (1/5)  **
+    LutziaMetalutzia: adding 4 new species
+    LutziaMetalutzia: tmax set to 27.66 because ccp 0.00 < 0.8
+    LutziaMetalutzia: 4 new times: b=0.38, d=0.31, tmax=27.66, tmin=0.00
+    LutziaMetalutzia: 22.81, 6.19, 5.83, 1.65
+**  Lutzia (5/8)  **
+    Lutzia: adding clade LutziaInsulalutzia (n=1)
+    Lutzia: tmax set to 27.66 because ccp 0.00 < 0.8
+    Lutzia: 1 new times: b=0.38, d=0.31, tmax=27.66, tmin=0.00
+    Lutzia: 0.63
+    Lutzia: is fully locked, so attaching to stem
+    Lutzia: tmax 27.66 => 27.66 because ccp 0.00 < 0.8
+    Lutzia: 1 new times: b=0.38, d=0.31, tmax=27.66, tmin=22.81
+    Lutzia: 26.91
+    Lutzia: adding clade LutziaLutzia (n=2)
+    Lutzia: tmax set to 27.66 because ccp 0.00 < 0.8
+    Lutzia: 2 new times: b=0.38, d=0.31, tmax=27.66, tmin=0.00
+    Lutzia: 2.81, 0.38
+**  Culicini (298/797)  **
+    Culicini: adding clade CulexBelkinomyia (n=1)
+    Culicini: tmax set to 77.54 because of max age
+    Culicini: 1 new times: b=0.38, d=0.31, tmax=77.54, tmin=0.00
+    Culicini: 0.87
+    Culicini: adding clade CulexLasiosiphon (n=1)
+    Culicini: tmax set to 77.54 because of max age
+    Culicini: 1 new times: b=0.38, d=0.31, tmax=77.54, tmin=0.00
+    Culicini: 0.28
+    Culicini: adding clade CulexAnoedioporpa (n=12)
+    Culicini: tmax set to 77.54 because of max age
+    Culicini: 12 new times: b=0.38, d=0.31, tmax=77.54, tmin=0.00
+    Culicini: 4.66..0.06
+    Culicini: adding clade CulexCarrollia (n=18)
+    Culicini: tmax set to 77.54 because of max age
+    Culicini: 18 new times: b=0.38, d=0.31, tmax=77.54, tmin=0.00
+    Culicini: 8.35..0.28
+    Culicini: adding clade CulexAcallyntrum (n=8)
+    Culicini: tmax set to 77.54 because of max age
+    Culicini: 8 new times: b=0.38, d=0.31, tmax=77.54, tmin=0.00
+    Culicini: 3.88..0.12
+    Culicini: adding clade CulexAfroculex (n=1)
+    Culicini: tmax set to 77.54 because of max age
+    Culicini: 1 new times: b=0.38, d=0.31, tmax=77.54, tmin=0.00
+    Culicini: 0.50
+    Culicini: adding clade CulexMaillotia (n=9)
+    Culicini: tmax set to 77.54 because of max age
+    Culicini: 9 new times: b=0.38, d=0.31, tmax=77.54, tmin=0.00
+    Culicini: 7.25..0.02
+    Culicini: adding clade CulexNicaromyia (n=1)
+    Culicini: tmax set to 77.54 because of max age
+    Culicini: 1 new times: b=0.38, d=0.31, tmax=77.54, tmin=0.00
+    Culicini: 0.41
+    Culicini: adding clade CulexKitzmilleria (n=1)
+    Culicini: tmax set to 77.54 because of max age
+    Culicini: 1 new times: b=0.38, d=0.31, tmax=77.54, tmin=0.00
+    Culicini: 7.29
+    Culicini: adding clade GalindomyiaGalindomyia (n=1)
+    Culicini: tmax set to 77.54 because of max age
+    Culicini: 1 new times: b=0.38, d=0.31, tmax=77.54, tmin=0.00
+    Culicini: 1.19
+    Culicini: adding clade CulexEumelanomyia (n=77)
+    Culicini: tmax set to 77.54 because of max age
+    Culicini: 77 new times: b=0.38, d=0.31, tmax=77.54, tmin=0.00
+    Culicini: 14.76..0.01
+    Culicini: adding clade CulexAllimanta (n=1)
+    Culicini: tmax set to 77.54 because of max age
+    Culicini: 1 new times: b=0.38, d=0.31, tmax=77.54, tmin=0.00
+    Culicini: 7.83
+    Culicini: adding clade CulexTinolestes (n=3)
+    Culicini: tmax set to 77.54 because of max age
+    Culicini: 3 new times: b=0.38, d=0.31, tmax=77.54, tmin=0.00
+    Culicini: 2.34, 0.79, 0.14
+    Culicini: adding clade CulexBarraudius (n=4)
+    Culicini: tmax set to 77.54 because of max age
+    Culicini: 4 new times: b=0.38, d=0.31, tmax=77.54, tmin=0.00
+    Culicini: 4.93, 0.86, 0.72, 0.13
+    Culicini: adding clade CulexAcalleomyia (n=1)
+    Culicini: tmax set to 77.54 because of max age
+    Culicini: 1 new times: b=0.38, d=0.31, tmax=77.54, tmin=0.00
+    Culicini: 1.20
+    Culicini: adding clade CulexSirivanakarnius (n=1)
+    Culicini: tmax set to 77.54 because of max age
+    Culicini: 1 new times: b=0.38, d=0.31, tmax=77.54, tmin=0.00
+    Culicini: 2.32
+    Culicini: adding clade Culexsubgenusuncertain (n=7)
+    Culicini: tmax set to 77.54 because of max age
+    Culicini: 7 new times: b=0.38, d=0.31, tmax=77.54, tmin=0.00
+    Culicini: 5.04..0.27
+    Culicini: skipping clade Galindomyia as all species already present in tree
+    Culicini: adding 352 new species
+    Culicini: tmax set to 77.54 because of max age
+    Culicini: 352 new times: b=0.38, d=0.31, tmax=77.54, tmin=0.00
+    Culicini: 37.90..0.00
+**  CulisetaAllotheobaldia (1/1)  **
+    CulisetaAllotheobaldia: all species accounted for
+**  CulisetaAustrotheobaldia (0/1)  **
+    CulisetaAustrotheobaldia: no species sampled, will create later
+**  CulisetaClimacura (1/5)  **
+    CulisetaClimacura: adding 4 new species
+    CulisetaClimacura: tmax set to 43.73 because ccp 0.00 < 0.8
+    CulisetaClimacura: 4 new times: b=0.07, d=0.05, tmax=43.73, tmin=0.00
+    CulisetaClimacura: 6.17, 3.70, 0.66, 0.15
+**  CulisetaCulicella (3/14)  **
+    CulisetaCulicella: is not monophyletic
+**  CulisetaCuliseta (4/12)  **
+    CulisetaCuliseta: adding 8 new species
+    CulisetaCuliseta: tmax set to 34.67 because ccp 0.71 < 0.8
+    CulisetaCuliseta: 8 new times: b=0.07, d=0.05, tmax=34.67, tmin=0.00
+    CulisetaCuliseta: 18.65..1.57
+**  CulisetaNeotheobaldia (0/2)  **
+    CulisetaNeotheobaldia: no species sampled, will create later
+**  CulisetaTheomyia (0/1)  **
+    CulisetaTheomyia: no species sampled, will create later
+**  Culisetasubgenusuncertain (0/1)  **
+    Culisetasubgenusuncertain: no species sampled, will create later
+**  Culiseta (21/37)  **
+    Culiseta: adding clade CulisetaTheomyia (n=1)
+    Culiseta: tmax set to 72.43 because of max age
+    Culiseta: 1 new times: b=0.07, d=0.05, tmax=72.43, tmin=0.00
+    Culiseta: 7.22
+    Culiseta: adding clade CulisetaAustrotheobaldia (n=1)
+    Culiseta: tmax set to 72.43 because of max age
+    Culiseta: 1 new times: b=0.07, d=0.05, tmax=72.43, tmin=0.00
+    Culiseta: 42.68
+    Culiseta: adding clade CulisetaNeotheobaldia (n=2)
+    Culiseta: tmax set to 72.43 because of max age
+    Culiseta: 2 new times: b=0.07, d=0.05, tmax=72.43, tmin=0.00
+    Culiseta: 9.84, 0.79
+    Culiseta: adding clade Culisetasubgenusuncertain (n=1)
+    Culiseta: tmax set to 72.43 because of max age
+    Culiseta: 1 new times: b=0.07, d=0.05, tmax=72.43, tmin=0.00
+    Culiseta: 4.64
+    Culiseta: adding 11 new species
+    Culiseta: tmax set to 72.43 because of max age
+    Culiseta: 11 new times: b=0.07, d=0.05, tmax=72.43, tmin=0.00
+    Culiseta: 46.85..0.16
+**  Culisetini (37/37)  **
+    Culisetini: all species accounted for
+**  FicalbiaFicalbia (0/8)  **
+    FicalbiaFicalbia: no species sampled, will create later
+**  Ficalbia (0/8)  **
+    Ficalbia: no species sampled, will create later
+**  MimomyiaMimomyia (0/45)  **
+    MimomyiaMimomyia: no species sampled, will create later
+**  Mimomyia (0/45)  **
+    Mimomyia: no species sampled, will create later
+**  Ficalbiini (0/53)  **
+    Ficalbiini: no species sampled, will create later
+**  HodgesiaHodgesia (0/11)  **
+    HodgesiaHodgesia: no species sampled, will create later
+**  Hodgesia (0/11)  **
+    Hodgesia: no species sampled, will create later
+**  Hodgesiini (0/11)  **
+    Hodgesiini: no species sampled, will create later
+**  CoquillettidiaAustromansonia (0/1)  **
+    CoquillettidiaAustromansonia: no species sampled, will create later
+**  CoquillettidiaCoquillettidia (3/43)  **
+    CoquillettidiaCoquillettidia: adding 40 new species
+    CoquillettidiaCoquillettidia: tmax set to 77.42 because ccp 0.52 < 0.8
+    CoquillettidiaCoquillettidia: 40 new times: b=0.30, d=0.24, tmax=77.42, tmin=0.00
+    CoquillettidiaCoquillettidia: 24.79..0.06
+**  CoquillettidiaRhynchotaenia (0/13)  **
+    CoquillettidiaRhynchotaenia: no species sampled, will create later
+**  Coquillettidia (43/57)  **
+    Coquillettidia: adding clade CoquillettidiaAustromansonia (n=1)
+    Coquillettidia: tmax set to 77.42 because ccp 0.52 < 0.8
+    Coquillettidia: 1 new times: b=0.30, d=0.24, tmax=77.42, tmin=0.00
+    Coquillettidia: 0.05
+    Coquillettidia: is fully locked, so attaching to stem
+    Coquillettidia: tmax 77.42 => 77.42 because ccp 0.52 < 0.8
+    Coquillettidia: 1 new times: b=0.30, d=0.24, tmax=77.42, tmin=31.79
+    Coquillettidia: 47.33
+    Coquillettidia: adding clade CoquillettidiaRhynchotaenia (n=13)
+    Coquillettidia: tmax set to 77.42 because ccp 0.52 < 0.8
+    Coquillettidia: 13 new times: b=0.30, d=0.24, tmax=77.42, tmin=0.00
+    Coquillettidia: 15.79..0.14
+**  MansoniaMansonia (3/15)  **
+    MansoniaMansonia: adding 12 new species
+    MansoniaMansonia: tmax set to 65.97 because ccp 0.57 < 0.8
+    MansoniaMansonia: 12 new times: b=0.30, d=0.24, tmax=65.97, tmin=0.00
+    MansoniaMansonia: 8.36..0.01
+**  MansoniaMansonioides (1/10)  **
+    MansoniaMansonioides: adding 9 new species
+    MansoniaMansonioides: tmax set to 65.97 because ccp 0.00 < 0.8
+    MansoniaMansonioides: 9 new times: b=0.30, d=0.24, tmax=65.97, tmin=0.00
+    MansoniaMansonioides: 16.27..0.98
+**  Mansonia (25/25)  **
+    Mansonia: all species accounted for
+**  Mansoniini (82/82)  **
+    Mansoniini: all species accounted for
+**  OrthopodomyiaOrthopodomyia (2/36)  **
+    OrthopodomyiaOrthopodomyia: adding 34 new species
+    OrthopodomyiaOrthopodomyia: tmax set to 83.31 because ccp 0.35 < 0.8
+    OrthopodomyiaOrthopodomyia: 34 new times: b=0.30, d=0.24, tmax=83.31, tmin=0.00
+    OrthopodomyiaOrthopodomyia: 12.99..0.05
+**  Orthopodomyia (36/36)  **
+    Orthopodomyia: all species accounted for
+**  Orthopodomyiini  (36/36)  **
+    Orthopodomyiini : all species accounted for
+**  IsostomyiaIsostomyia (0/4)  **
+    IsostomyiaIsostomyia: no species sampled, will create later
+**  Isostomyia (0/4)  **
+    Isostomyia: no species sampled, will create later
+**  JohnbelkiniaJohnbelkinia (0/3)  **
+    JohnbelkiniaJohnbelkinia: no species sampled, will create later
+**  Johnbelkinia (0/3)  **
+    Johnbelkinia: no species sampled, will create later
+**  KimiaKimia (0/5)  **
+    KimiaKimia: no species sampled, will create later
+**  Kimia (0/5)  **
+    Kimia: no species sampled, will create later
+**  LimatusLimatus (1/9)  **
+    LimatusLimatus: adding 8 new species
+    LimatusLimatus: tmax set to 39.75 because ccp 0.00 < 0.8
+    LimatusLimatus: 8 new times: b=0.22, d=0.15, tmax=39.75, tmin=0.00
+    LimatusLimatus: 26.79..0.57
+**  Limatus (9/9)  **
+    Limatus: all species accounted for
+**  MalayaMalaya (0/12)  **
+    MalayaMalaya: no species sampled, will create later
+**  Malaya (0/12)  **
+    Malaya: no species sampled, will create later
+**  MaorigoeldiaMaorigoeldia (0/1)  **
+    MaorigoeldiaMaorigoeldia: no species sampled, will create later
+**  Maorigoeldia (0/1)  **
+    Maorigoeldia: no species sampled, will create later
+**  OnirionOnirion (0/7)  **
+    OnirionOnirion: no species sampled, will create later
+**  Onirion (0/7)  **
+    Onirion: no species sampled, will create later
+**  RunchomyiaRunchomyia (0/8)  **
+    RunchomyiaRunchomyia: no species sampled, will create later
+**  Runchomyia (0/8)  **
+    Runchomyia: no species sampled, will create later
+**  SabethesSabethes (2/41)  **
+    SabethesSabethes: adding 39 new species
+    SabethesSabethes: tmax set to 33.77 because ccp 0.35 < 0.8
+    SabethesSabethes: 39 new times: b=0.22, d=0.15, tmax=33.77, tmin=0.00
+    SabethesSabethes: 30.91..0.02
+**  Sabethes (41/41)  **
+    Sabethes: all species accounted for
+**  ShannonianaShannoniana (0/3)  **
+    ShannonianaShannoniana: no species sampled, will create later
+**  Shannoniana (0/3)  **
+    Shannoniana: no species sampled, will create later
+**  TopomyiaTopomyia (0/65)  **
+    TopomyiaTopomyia: no species sampled, will create later
+**  Topomyia (0/65)  **
+    Topomyia: no species sampled, will create later
+**  TrichoprosoponTrichoprosopon (1/13)  **
+    TrichoprosoponTrichoprosopon: adding 12 new species
+    TrichoprosoponTrichoprosopon: tmax set to 52.63 because ccp 0.00 < 0.8
+    TrichoprosoponTrichoprosopon: 12 new times: b=0.22, d=0.15, tmax=52.63, tmin=0.00
+    TrichoprosoponTrichoprosopon: 19.05..0.58
+**  Trichoprosopon (13/13)  **
+    Trichoprosopon: all species accounted for
+**  TripteroidesPolylepidomyia (1/19)  **
+    TripteroidesPolylepidomyia: adding 18 new species
+    TripteroidesPolylepidomyia: tmax set to 28.04 because ccp 0.00 < 0.8
+    TripteroidesPolylepidomyia: 18 new times: b=0.22, d=0.15, tmax=28.04, tmin=0.00
+    TripteroidesPolylepidomyia: 20.79..0.10
+**  TripteroidesRachionotomyia (1/14)  **
+    TripteroidesRachionotomyia: adding 13 new species
+    TripteroidesRachionotomyia: tmax set to 36.36 because ccp 0.00 < 0.8
+    TripteroidesRachionotomyia: 13 new times: b=0.22, d=0.15, tmax=36.36, tmin=0.00
+    TripteroidesRachionotomyia: 14.93..0.22
+**  TripteroidesRachisoura (1/28)  **
+    TripteroidesRachisoura: adding 27 new species
+    TripteroidesRachisoura: tmax set to 28.04 because ccp 0.00 < 0.8
+    TripteroidesRachisoura: 27 new times: b=0.22, d=0.15, tmax=28.04, tmin=0.00
+    TripteroidesRachisoura: 16.01..0.07
+**  TripteroidesTricholeptomyia (0/9)  **
+    TripteroidesTricholeptomyia: no species sampled, will create later
+**  TripteroidesTripteroides (0/52)  **
+    TripteroidesTripteroides: no species sampled, will create later
+**  Tripteroides (61/122)  **
+    Tripteroides: adding clade TripteroidesTripteroides (n=52)
+    Tripteroides: tmax set to 66.51 because ccp 0.51 < 0.8
+    Tripteroides: 52 new times: b=0.22, d=0.15, tmax=66.51, tmin=0.00
+    Tripteroides: 10.48..0.04
+    Tripteroides: has a minimum age constraint 14.93, but oldest generated time was 10.48
+    Tripteroides: tmax set to 66.51 because ccp 0.51 < 0.8
+    Tripteroides: 1 new times: b=0.22, d=0.15, tmax=66.51, tmin=14.93
+    Tripteroides: 19.85
+    Tripteroides: adding clade TripteroidesTricholeptomyia (n=9)
+    Tripteroides: tmax set to 66.51 because ccp 0.51 < 0.8
+    Tripteroides: 9 new times: b=0.22, d=0.15, tmax=66.51, tmin=0.00
+    Tripteroides: 11.18..0.04
+**  WyeomyiaAntunesmyia (0/3)  **
+    WyeomyiaAntunesmyia: no species sampled, will create later
+**  WyeomyiaCaenomyiella (0/1)  **
+    WyeomyiaCaenomyiella: no species sampled, will create later
+**  WyeomyiaCruzmyia (0/4)  **
+    WyeomyiaCruzmyia: no species sampled, will create later
+**  WyeomyiaDecamyia (0/3)  **
+    WyeomyiaDecamyia: no species sampled, will create later
+**  WyeomyiaDendromyia (0/6)  **
+    WyeomyiaDendromyia: no species sampled, will create later
+**  WyeomyiaDodecamyia (0/1)  **
+    WyeomyiaDodecamyia: no species sampled, will create later
+**  WyeomyiaExallomyia (0/3)  **
+    WyeomyiaExallomyia: no species sampled, will create later
+**  WyeomyiaHystatomyia (0/9)  **
+    WyeomyiaHystatomyia: no species sampled, will create later
+**  WyeomyiaMenolepis (0/1)  **
+    WyeomyiaMenolepis: no species sampled, will create later
+**  WyeomyiaMiamyia (0/7)  **
+    WyeomyiaMiamyia: no species sampled, will create later
+**  WyeomyiaNunezia (0/3)  **
+    WyeomyiaNunezia: no species sampled, will create later
+**  WyeomyiaPhoniomyia (0/22)  **
+    WyeomyiaPhoniomyia: no species sampled, will create later
+**  WyeomyiaProsopolepis (0/1)  **
+    WyeomyiaProsopolepis: no species sampled, will create later
+**  WyeomyiaSpilonympha (0/7)  **
+    WyeomyiaSpilonympha: no species sampled, will create later
+**  WyeomyiaTriamyia (0/2)  **
+    WyeomyiaTriamyia: no species sampled, will create later
+**  WyeomyiaWyeomyia (3/35)  **
+    WyeomyiaWyeomyia: adding 32 new species
+    WyeomyiaWyeomyia: tmax set to 33.77 because ccp 0.53 < 0.8
+    WyeomyiaWyeomyia: 32 new times: b=0.22, d=0.15, tmax=33.77, tmin=0.00
+    WyeomyiaWyeomyia: 28.44..0.47
+**  WyeomyiaZinzala (0/2)  **
+    WyeomyiaZinzala: no species sampled, will create later
+**  Wyeomyiasubgenusuncertain (0/30)  **
+    Wyeomyiasubgenusuncertain: no species sampled, will create later
+**  Wyeomyia (35/140)  **
+    Wyeomyia: adding clade WyeomyiaZinzala (n=2)
+    Wyeomyia: tmax set to 33.77 because ccp 0.51 < 0.8
+    Wyeomyia: 2 new times: b=0.22, d=0.15, tmax=33.77, tmin=0.00
+    Wyeomyia: 5.72, 2.32
+    Wyeomyia: is fully locked, so attaching to stem
+    Wyeomyia: tmax 33.77 => 33.77 because ccp 0.51 < 0.8
+    Wyeomyia: 1 new times: b=0.22, d=0.15, tmax=33.77, tmin=28.44
+    Wyeomyia: 33.43
+    Wyeomyia: adding clade WyeomyiaDendromyia (n=6)
+    Wyeomyia: tmax set to 33.77 because ccp 0.51 < 0.8
+    Wyeomyia: 6 new times: b=0.22, d=0.15, tmax=33.77, tmin=0.00
+    Wyeomyia: 5.06..1.51
+    Wyeomyia: adding clade WyeomyiaMiamyia (n=7)
+    Wyeomyia: tmax set to 33.77 because ccp 0.51 < 0.8
+    Wyeomyia: 7 new times: b=0.22, d=0.15, tmax=33.77, tmin=0.00
+    Wyeomyia: 1.52..0.32
+    Wyeomyia: has a minimum age constraint 2.32, but oldest generated time was 1.52
+    Wyeomyia: tmax set to 33.77 because ccp 0.51 < 0.8
+    Wyeomyia: 1 new times: b=0.22, d=0.15, tmax=33.77, tmin=2.32
+    Wyeomyia: 7.60
+    Wyeomyia: adding clade WyeomyiaTriamyia (n=2)
+    Wyeomyia: tmax set to 33.77 because ccp 0.51 < 0.8
+    Wyeomyia: 2 new times: b=0.22, d=0.15, tmax=33.77, tmin=0.00
+    Wyeomyia: 0.67, 0.42
+    Wyeomyia: has a minimum age constraint 1.18, but oldest generated time was 0.67
+    Wyeomyia: tmax set to 33.77 because ccp 0.51 < 0.8
+    Wyeomyia: 1 new times: b=0.22, d=0.15, tmax=33.77, tmin=1.18
+    Wyeomyia: 4.63
+    Wyeomyia: adding clade WyeomyiaCruzmyia (n=4)
+    Wyeomyia: tmax set to 33.77 because ccp 0.51 < 0.8
+    Wyeomyia: 4 new times: b=0.22, d=0.15, tmax=33.77, tmin=0.00
+    Wyeomyia: 8.22, 3.01, 1.94, 1.85
+    Wyeomyia: adding clade WyeomyiaSpilonympha (n=7)
+    Wyeomyia: tmax set to 33.77 because ccp 0.51 < 0.8
+    Wyeomyia: 7 new times: b=0.22, d=0.15, tmax=33.77, tmin=0.00
+    Wyeomyia: 9.07..0.73
+    Wyeomyia: adding clade WyeomyiaExallomyia (n=3)
+    Wyeomyia: tmax set to 33.77 because ccp 0.51 < 0.8
+    Wyeomyia: 3 new times: b=0.22, d=0.15, tmax=33.77, tmin=0.00
+    Wyeomyia: 5.51, 2.20, 1.61
+    Wyeomyia: adding clade WyeomyiaDecamyia (n=3)
+    Wyeomyia: tmax set to 33.77 because ccp 0.51 < 0.8
+    Wyeomyia: 3 new times: b=0.22, d=0.15, tmax=33.77, tmin=0.00
+    Wyeomyia: 1.38, 1.25, 0.48
+    Wyeomyia: adding clade WyeomyiaDodecamyia (n=1)
+    Wyeomyia: tmax set to 33.77 because ccp 0.51 < 0.8
+    Wyeomyia: 1 new times: b=0.22, d=0.15, tmax=33.77, tmin=0.00
+    Wyeomyia: 1.25
+    Wyeomyia: adding clade WyeomyiaProsopolepis (n=1)
+    Wyeomyia: tmax set to 33.77 because ccp 0.51 < 0.8
+    Wyeomyia: 1 new times: b=0.22, d=0.15, tmax=33.77, tmin=0.00
+    Wyeomyia: 5.67
+    Wyeomyia: adding clade WyeomyiaNunezia (n=3)
+    Wyeomyia: tmax set to 33.77 because ccp 0.51 < 0.8
+    Wyeomyia: 3 new times: b=0.22, d=0.15, tmax=33.77, tmin=0.00
+    Wyeomyia: 1.87, 0.72, 0.49
+    Wyeomyia: adding clade WyeomyiaPhoniomyia (n=22)
+    Wyeomyia: tmax set to 33.77 because ccp 0.51 < 0.8
+    Wyeomyia: 22 new times: b=0.22, d=0.15, tmax=33.77, tmin=0.00
+    Wyeomyia: 15.26..0.06
+    Wyeomyia: adding clade WyeomyiaHystatomyia (n=9)
+    Wyeomyia: tmax set to 33.77 because ccp 0.51 < 0.8
+    Wyeomyia: 9 new times: b=0.22, d=0.15, tmax=33.77, tmin=0.00
+    Wyeomyia: 6.54..0.17
+    Wyeomyia: adding clade Wyeomyiasubgenusuncertain (n=30)
+    Wyeomyia: tmax set to 33.77 because ccp 0.51 < 0.8
+    Wyeomyia: 30 new times: b=0.22, d=0.15, tmax=33.77, tmin=0.00
+    Wyeomyia: 25.61..0.07
+    Wyeomyia: adding clade WyeomyiaMenolepis (n=1)
+    Wyeomyia: tmax set to 33.77 because ccp 0.51 < 0.8
+    Wyeomyia: 1 new times: b=0.22, d=0.15, tmax=33.77, tmin=0.00
+    Wyeomyia: 1.21
+    Wyeomyia: adding clade WyeomyiaAntunesmyia (n=3)
+    Wyeomyia: tmax set to 33.77 because ccp 0.51 < 0.8
+    Wyeomyia: 3 new times: b=0.22, d=0.15, tmax=33.77, tmin=0.00
+    Wyeomyia: 2.55, 2.27, 2.16
+    Wyeomyia: adding clade WyeomyiaCaenomyiella (n=1)
+    Wyeomyia: tmax set to 33.77 because ccp 0.51 < 0.8
+    Wyeomyia: 1 new times: b=0.22, d=0.15, tmax=33.77, tmin=0.00
+    Wyeomyia: 0.83
+**  Sabethini (325/433)  **
+    Sabethini: adding clade OnirionOnirion (n=7)
+    Sabethini: tmax set to 66.51 because of max age
+    Sabethini: 7 new times: b=0.22, d=0.15, tmax=66.51, tmin=0.00
+    Sabethini: 4.69..0.64
+    Sabethini: has a minimum age constraint 19.05, but oldest generated time was 4.69
+    Sabethini: tmax set to 66.51 because of max age
+    Sabethini: 1 new times: b=0.22, d=0.15, tmax=66.51, tmin=19.05
+    Sabethini: 19.98
+    Sabethini: adding clade TopomyiaTopomyia (n=65)
+    Sabethini: tmax set to 66.51 because of max age
+    Sabethini: 65 new times: b=0.22, d=0.15, tmax=66.51, tmin=0.00
+    Sabethini: 23.44..0.05
+1 short branches detected
+    Sabethini: adding clade MaorigoeldiaMaorigoeldia (n=1)
+    Sabethini: tmax set to 66.51 because of max age
+    Sabethini: 1 new times: b=0.22, d=0.15, tmax=66.51, tmin=0.00
+    Sabethini: 1.10
+    Sabethini: has a minimum age constraint 2.20, but oldest generated time was 1.10
+    Sabethini: tmax set to 66.51 because of max age
+    Sabethini: 1 new times: b=0.22, d=0.15, tmax=66.51, tmin=2.20
+    Sabethini: 3.53
+    Sabethini: adding clade RunchomyiaRunchomyia (n=8)
+    Sabethini: tmax set to 66.51 because of max age
+    Sabethini: 8 new times: b=0.22, d=0.15, tmax=66.51, tmin=0.00
+    Sabethini: 11.56..0.11
+    Sabethini: adding clade KimiaKimia (n=5)
+    Sabethini: tmax set to 66.51 because of max age
+    Sabethini: 5 new times: b=0.22, d=0.15, tmax=66.51, tmin=0.00
+    Sabethini: 5.84, 4.66, 1.97, 1.55, 1.16
+    Sabethini: adding clade IsostomyiaIsostomyia (n=4)
+    Sabethini: tmax set to 66.51 because of max age
+    Sabethini: 4 new times: b=0.22, d=0.15, tmax=66.51, tmin=0.00
+    Sabethini: 3.29, 1.83, 0.48, 0.20
+    Sabethini: adding clade ShannonianaShannoniana (n=3)
+    Sabethini: tmax set to 66.51 because of max age
+    Sabethini: 3 new times: b=0.22, d=0.15, tmax=66.51, tmin=0.00
+    Sabethini: 5.58, 0.88, 0.28
+    Sabethini: adding clade MalayaMalaya (n=12)
+    Sabethini: tmax set to 66.51 because of max age
+    Sabethini: 12 new times: b=0.22, d=0.15, tmax=66.51, tmin=0.00
+    Sabethini: 4.46..0.49
+    Sabethini: adding clade JohnbelkiniaJohnbelkinia (n=3)
+    Sabethini: tmax set to 66.51 because of max age
+    Sabethini: 3 new times: b=0.22, d=0.15, tmax=66.51, tmin=0.00
+    Sabethini: 22.10, 16.84, 2.55
+    Sabethini: skipping clade Shannoniana as all species already present in tree
+    Sabethini: skipping clade Isostomyia as all species already present in tree
+    Sabethini: skipping clade Malaya as all species already present in tree
+    Sabethini: skipping clade Johnbelkinia as all species already present in tree
+    Sabethini: skipping clade Topomyia as all species already present in tree
+    Sabethini: skipping clade Kimia as all species already present in tree
+    Sabethini: skipping clade Runchomyia as all species already present in tree
+    Sabethini: skipping clade Maorigoeldia as all species already present in tree
+    Sabethini: skipping clade Onirion as all species already present in tree
+**  ToxorhynchitesAfrorhynchus (0/19)  **
+    ToxorhynchitesAfrorhynchus: no species sampled, will create later
+**  ToxorhynchitesAnkylorhynchus (0/4)  **
+    ToxorhynchitesAnkylorhynchus: no species sampled, will create later
+**  ToxorhynchitesLynchiella (3/17)  **
+    ToxorhynchitesLynchiella: adding 14 new species
+    ToxorhynchitesLynchiella: tmax set to 32.26 because ccp 0.56 < 0.8
+    ToxorhynchitesLynchiella: 14 new times: b=0.30, d=0.24, tmax=32.26, tmin=0.00
+    ToxorhynchitesLynchiella: 10.01..0.06
+**  ToxorhynchitesToxorhynchites (1/50)  **
+    ToxorhynchitesToxorhynchites: adding 49 new species
+    ToxorhynchitesToxorhynchites: tmax set to 32.26 because ccp 0.00 < 0.8
+    ToxorhynchitesToxorhynchites: 49 new times: b=0.30, d=0.24, tmax=32.26, tmin=0.00
+    ToxorhynchitesToxorhynchites: 23.33..0.07
+**  Toxorhynchites (67/90)  **
+    Toxorhynchites: adding clade ToxorhynchitesAnkylorhynchus (n=4)
+    Toxorhynchites: tmax set to 86.99 because ccp 0.61 < 0.8
+    Toxorhynchites: 4 new times: b=0.30, d=0.24, tmax=86.99, tmin=0.00
+    Toxorhynchites: 14.39, 1.60, 1.35, 0.26
+    Toxorhynchites: adding clade ToxorhynchitesAfrorhynchus (n=19)
+    Toxorhynchites: tmax set to 86.99 because ccp 0.61 < 0.8
+    Toxorhynchites: 19 new times: b=0.30, d=0.24, tmax=86.99, tmin=0.00
+    Toxorhynchites: 7.09..0.02
+**  Toxorhynchitini (90/90)  **
+    Toxorhynchitini: all species accounted for
+**  UranotaeniaPseudoficalbia (0/150)  **
+    UranotaeniaPseudoficalbia: no species sampled, will create later
+**  UranotaeniaUranotaenia (3/121)  **
+    UranotaeniaUranotaenia: adding 118 new species
+    UranotaeniaUranotaenia: tmax set to 114.55 because ccp 0.51 < 0.8
+    UranotaeniaUranotaenia: 118 new times: b=0.30, d=0.24, tmax=114.55, tmin=0.00
+    UranotaeniaUranotaenia: 45.19..0.07
+**  Uranotaenia (121/271)  **
+    Uranotaenia: adding clade UranotaeniaPseudoficalbia (n=150)
+    Uranotaenia: tmax set to 114.55 because ccp 0.50 < 0.8
+    Uranotaenia: 150 new times: b=0.30, d=0.24, tmax=114.55, tmin=0.00
+    Uranotaenia: 21.20..0.00
+    Uranotaenia: is fully locked, so attaching to stem
+    Uranotaenia: tmax 114.55 => 114.55 because ccp 0.50 < 0.8
+    Uranotaenia: 1 new times: b=0.30, d=0.24, tmax=114.55, tmin=45.19
+    Uranotaenia: 60.55
+2 short branches detected
+**  Uranotaeniini (271/271)  **
+    Uranotaeniini: all species accounted for
+**  Culicinae (3010/3074)  **
+    Culicinae: adding clade HodgesiaHodgesia (n=11)
+    Culicinae: tmax set to 133.20 because of max age
+    Culicinae: 11 new times: b=0.30, d=0.24, tmax=133.20, tmin=0.00
+    Culicinae: 10.19..0.02
+    Culicinae: has a minimum age constraint 12.99, but oldest generated time was 10.19
+    Culicinae: tmax set to 133.20 because of max age
+    Culicinae: 1 new times: b=0.30, d=0.24, tmax=133.20, tmin=12.99
+    Culicinae: 13.47
+    Culicinae: adding clade FicalbiaFicalbia (n=8)
+    Culicinae: tmax set to 133.20 because of max age
+    Culicinae: 8 new times: b=0.30, d=0.24, tmax=133.20, tmin=0.00
+    Culicinae: 5.06..0.11
+    Culicinae: has a minimum age constraint 7.23, but oldest generated time was 5.06
+    Culicinae: tmax set to 133.20 because of max age
+    Culicinae: 1 new times: b=0.30, d=0.24, tmax=133.20, tmin=7.23
+    Culicinae: 8.55
+    Culicinae: adding clade MimomyiaMimomyia (n=45)
+    Culicinae: tmax set to 133.20 because of max age
+    Culicinae: 45 new times: b=0.30, d=0.24, tmax=133.20, tmin=0.00
+    Culicinae: 17.26..0.13
+    Culicinae: skipping clade Ficalbia as all species already present in tree
+    Culicinae: skipping clade Mimomyia as all species already present in tree
+    Culicinae: skipping clade Hodgesia as all species already present in tree
+    Culicinae: skipping clade Hodgesiini as all species already present in tree
+    Culicinae: skipping clade Ficalbiini as all species already present in tree
+**  Culicidae (3563/3563)  **
+    Culicidae: all species accounted for
+**  __TAXONOMIC_ROOT__ (3563/3563)  **
+    __TAXONOMIC_ROOT__: all species accounted for
