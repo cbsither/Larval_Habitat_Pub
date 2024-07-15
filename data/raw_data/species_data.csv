@@ -488,7 +488,7 @@ pub0000000008,Culicinae,Toxorhynchitini,Toxorhynchites,Toxorhynchites,towadensis
 pub0000000001,Culicinae,Mansoniini,Coquillettidia,Austromansonia,tenuipalpis,null,null,sp0000000487,
 pub0000000001,Culicinae,Mansoniini,Coquillettidia,Coquillettidia,iracunda,null,null,sp0000000488,
 pub0000000008,Culicinae,Toxorhynchitini,Toxorhynchites,Toxorhynchites,christophi,null,null,sp0000000489,
-pub0000000001,Culicinae,Mansoniini,Coquillettdia,Coquillettidia,fijiensis,null,null,sp0000000490,
+pub0000000001,Culicinae,Mansoniini,Coquillettidia,Coquillettidia,fijiensis,null,null,sp0000000490,
 pub0000000001,Culicinae,Mansoniini,Coquillettidia,Coquillettidia,lutea,null,null,sp0000000491,
 pub0000000001,Culicinae,Mansoniini,Coquillettidia,Coquillettidia,xanthogaster,null,null,sp0000000492,
 pub0000000001,Culicinae,Mansoniini,Mansonia,Mansonioides,melanesiensis,null,null,sp0000000493,
@@ -1782,7 +1782,8 @@ pub0000000128,Culicinae,Uranotaeniini,Uranotaenia,Uranotaenia,macfarlanei,null,n
 pub0000000128,Culicinae,Culicini,Culex,Culex,vishnui,null,null,sp0000001781,
 pub0000000129,Culicinae,Aedini,Psorophora,Janthinosoma,albigenu,null,null,sp0000001782,
 pub0000000129,Culicinae,Aedini,Psorophora,Grabhamia,cingulata,null,null,sp0000001783,
-pub0000000129,Culicinae,Aedini,Aedes,Ochlerotatus,"serratus",null,null,sp0000001784,
+pub0000000129,Culicinae,Aedini,Aedes,Ochlerotatus,"serratus
+",null,null,sp0000001784,
 pub0000000129,Culicinae,Aedini,Aedes,Ochlerotatus,fulvus,null,null,sp0000001785,
 pub0000000129,Culicinae,Mansoniini,Mansonia,Mansonia,humeralis,null,null,sp0000001786,
 pub0000000129,Anophelinae,Null,Anopheles,Nyssorhynchus,benarrochi,null,sensu lato,sp0000001787,
