@@ -1,0 +1,133 @@
+---
+title: "Bipartite Network Construction"
+output: html_notebook
+author: Charles Sither
+date: 7/15/2024
+---
+
+
+```{r}
+library(vegan)
+library(bipartite)
+library(igraph)
+library(dplyr)
+```
+
+
+
+```{r}
+# Set the working directory path
+wk_dir <- "C:/Users/cbsit/Dropbox/NCSU_Coursework/Research/Publications/Larval_Hab_Pub/Larval_Habitat_Pub/"
+
+# Concatenate the working directory path with the file name
+csv_dat <- paste0(wk_dir, "data/cleaned_data/cleaned_unique_species_hab_matrix.csv")
+
+# Print the CSV file path to verify
+print(csv_dat)
+```
+
+
+```{r}
+file.exists(csv_dat)
+
+df <- read.csv(csv_dat, header = TRUE)
+```
+
+```{r}
+df_raw <- df
+```
+
+```{r}
+
+# Extract genus names
+df$Genus <- sapply(strsplit(as.character(df$Genus_Species), "_"), `[`, 1)
+
+```
+
+
+```{r}
+# Aggregate the data by genus and habitat
+df_agg <- df %>%
+  group_by(Genus) %>%
+  summarise(across(-Genus_Species, sum))
+```
+
+```{r}
+df_agg$Genus
+```
+
+
+```{r}
+# Define the desired order of genera
+desired_order <- c("Aedeomyia", "Aedes",
+                   "Psorophora", "Armigeres", 
+                   "Eretmapodites", "Haemagogus",
+                   "Heizmannia",
+                   "Opifex", "Verrallina",
+                   "Anopheles", "Bironella",
+                   "Chagasia", "Mansonia",
+                   "Coquillettidia", "Culex",
+                   "Deinocerites", "Lutzia",
+                   "Culiseta", "Ficalbia",
+                   "Mimomyia", "Hodgesia",
+                   "Isostomyia", "Johnbelkinia",
+                   "Kimia", "Limatus",
+                   "Malaya", "Maorigoeldia",
+                   "Onirion", "Runchomyia",
+                   "Sabethes", "Shannoniana",
+                   "Topomyia", "Trichoprosopon",
+                   "Tripteroides", "Wyeomyia",
+                   "Orthopodomyia", "Toxorhynchites",
+                   "Uranotaenia")
+
+desired_order <- desired_order[desired_order %in% df_agg$Genus]
+```
+
+```{r}
+# Convert to incidence matrix
+incidence_matrix <- as.matrix(df_agg[, -1])
+rownames(incidence_matrix) <- df_agg$Genus
+
+# Filter out genera not present in the data
+desired_order_filtered <- desired_order[desired_order %in% rownames(incidence_matrix)]
+
+# Reorder the incidence matrix based on the desired order
+incidence_matrix <- incidence_matrix[match(desired_order_filtered, rownames(incidence_matrix)), ]
+
+# Remove rows and columns that are entirely zero
+incidence_matrix <- incidence_matrix[rowSums(incidence_matrix) > 0, ]
+incidence_matrix <- incidence_matrix[, colSums(incidence_matrix) > 0]
+
+# Check the incidence matrix
+print(incidence_matrix)
+```
+
+
+
+```{r, fig.height=20, fig.width=20}
+# Plot the bipartite network with genus on the left and habitats on the right
+
+svg(paste0(wk_dir, "figures/raw/bipartite_network.svg"), height=15, width=30)
+
+plotweb(incidence_matrix,
+        method = "normal",          # method for plotting
+        labsize = 1,                # size of the labels
+        ybig = 0.1,                   # vertical spacing between levels
+        low.spacing = 0.005,
+        high.spacing = 0.005,
+        col.interaction = "lightblue",   # color of the interactions (edges)
+        bor.col.interaction = "blue",
+        bor.col.high = "orange",       # color of the higher level (columns)
+        bor.col.low = "green",       # color of the lower level (genus)
+        text.rot = 90,              # rotate text to be vertical,    # color for high abundance
+        high.lablength = 10,        # length of the labels for higher level
+        low.lablength = 10,         # length of the labels for lower level
+        col.low = "green",
+        col.high = "orange"
+        
+        )
+
+dev.off()
+
+```
+
