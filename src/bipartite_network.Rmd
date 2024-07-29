@@ -11,6 +11,7 @@ library(vegan)
 library(bipartite)
 library(igraph)
 library(dplyr)
+library(data.table) # for the setnames() function which makes column renaming with a map file trivial
 ```
 
 
@@ -38,10 +39,36 @@ df_raw <- df
 ```
 
 ```{r}
+colnames(df)
+```
 
+
+```{r}
+# rename habitat columns
+habitat_map <- read.csv(paste0(wk_dir, "data/raw_data/habitat_map.csv"))
+str(habitat_map)
+rename_map <- setNames(as.character(habitat_map$Name), as.character(habitat_map$Acrynoym))
+
+habitat_map
+rename_map
+
+```
+
+
+```{r}
+# rename columns
+setnames(df, old = habitat_map$Acronym, new = habitat_map$Name)
+```
+
+```{r}
+colnames(df)
+```
+
+
+
+```{r}
 # Extract genus names
 df$Genus <- sapply(strsplit(as.character(df$Genus_Species), "_"), `[`, 1)
-
 ```
 
 
@@ -56,43 +83,49 @@ df_agg <- df %>%
 df_agg$Genus
 ```
 
-
 ```{r}
 # Define the desired order of genera
-desired_order <- c("Aedeomyia", "Aedes",
-                   "Psorophora", "Armigeres", 
-                   "Eretmapodites", "Haemagogus",
-                   "Heizmannia",
-                   "Opifex", "Verrallina",
-                   "Anopheles", "Bironella",
-                   "Chagasia", "Mansonia",
-                   "Coquillettidia", "Culex",
-                   "Deinocerites", "Lutzia",
-                   "Culiseta", "Ficalbia",
-                   "Mimomyia", "Hodgesia",
-                   "Isostomyia", "Johnbelkinia",
-                   "Kimia", "Limatus",
-                   "Malaya", "Maorigoeldia",
-                   "Onirion", "Runchomyia",
-                   "Sabethes", "Shannoniana",
-                   "Topomyia", "Trichoprosopon",
-                   "Tripteroides", "Wyeomyia",
-                   "Orthopodomyia", "Toxorhynchites",
-                   "Uranotaenia")
+desired_order_genus <- c("Aedeomyia", "Aedes", "Psorophora", "Armigeres", 
+                         "Eretmapodites", "Haemagogus", "Heizmannia", 
+                         "Opifex", "Verrallina", "Anopheles", "Bironella", 
+                         "Chagasia", "Mansonia", "Coquillettidia", "Culex", 
+                         "Deinocerites", "Lutzia", "Culiseta", "Ficalbia", 
+                         "Mimomyia", "Hodgesia", "Isostomyia", "Johnbelkinia", 
+                         "Kimia", "Limatus", "Malaya", "Maorigoeldia", 
+                         "Onirion", "Runchomyia", "Sabethes", "Shannoniana", 
+                         "Topomyia", "Trichoprosopon", "Tripteroides", "Wyeomyia", 
+                         "Orthopodomyia", "Toxorhynchites", "Uranotaenia")
 
-desired_order <- desired_order[desired_order %in% df_agg$Genus]
-```
+# Filter the desired order to match the genera present in df_agg
+desired_order_genus <- desired_order_genus[desired_order_genus %in% df_agg$Genus]
 
-```{r}
+# Define the desired order of habitats
+desired_order_habitat <- c("Artificial Containers","Bamboo", "Fruit Husks", "Flower Parts", "Fallen Plant Parts", 
+                           "Leaf Axils", "Modified Leaves", "Tree Holes", "Animal Tracks", 
+                           "Brackish Pools", "Coral Rockpools", "Crab Holes", "Drainage Pools", 
+                           "Ditches", "Ground Pools", "Brackish Ground Pools", "Temporary Ground Pools", 
+                           "Hog Wallows", "Irrigation Canals/Channels", "Lagoons", "Lake Margins", 
+                           "Brackish Marshes", "Marshes", "Ponds", "Pond Margins", 
+                           "Rice Field/Paddies", "Roadside Pools", "River Margins", "Rockpools", 
+                           "Brackish Rockpools", "Seepages", "Snowmelt Pools", "Springs", 
+                           "Streams", "Stream Margin Overflow", "Rocky Stream Margins", "Intermittent Streams", 
+                           "Swamps")
+
 # Convert to incidence matrix
 incidence_matrix <- as.matrix(df_agg[, -1])
 rownames(incidence_matrix) <- df_agg$Genus
 
 # Filter out genera not present in the data
-desired_order_filtered <- desired_order[desired_order %in% rownames(incidence_matrix)]
+desired_order_filtered_genus <- desired_order_genus[desired_order_genus %in% rownames(incidence_matrix)]
 
-# Reorder the incidence matrix based on the desired order
-incidence_matrix <- incidence_matrix[match(desired_order_filtered, rownames(incidence_matrix)), ]
+# Reorder the rows based on the desired order
+incidence_matrix <- incidence_matrix[match(desired_order_filtered_genus, rownames(incidence_matrix)), ]
+
+# Ensure the desired habitat order matches the columns present in your incidence_matrix
+desired_order_filtered_habitat <- desired_order_habitat[desired_order_habitat %in% colnames(incidence_matrix)]
+
+# Reorder the columns based on the desired order
+incidence_matrix <- incidence_matrix[, match(desired_order_filtered_habitat, colnames(incidence_matrix))]
 
 # Remove rows and columns that are entirely zero
 incidence_matrix <- incidence_matrix[rowSums(incidence_matrix) > 0, ]
@@ -102,8 +135,6 @@ incidence_matrix <- incidence_matrix[, colSums(incidence_matrix) > 0]
 print(incidence_matrix)
 ```
 
-
-
 ```{r, fig.height=20, fig.width=20}
 # Plot the bipartite network with genus on the left and habitats on the right
 
@@ -112,7 +143,7 @@ svg(paste0(wk_dir, "figures/raw/bipartite_network.svg"), height=15, width=30)
 plotweb(incidence_matrix,
         method = "normal",          # method for plotting
         labsize = 1,                # size of the labels
-        ybig = 0.1,                   # vertical spacing between levels
+        ybig = 1,                   # vertical spacing between levels
         low.spacing = 0.005,
         high.spacing = 0.005,
         col.interaction = "lightblue",   # color of the interactions (edges)
